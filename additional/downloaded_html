@@ -1,0 +1,3665 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="pl">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Tesla, Inc. – Wikipedia, wolna encyklopedia
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgRequestId":"21609db7-29a0-45dc-a13b-bfc84ef7471b","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Tesla,_Inc.","wgTitle":"Tesla, Inc.","wgCurRevisionId":60050790,"wgRevisionId":60050790,"wgArticleId":637186,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Szablon cytuj stronę – autorzy do sprawdzenia","Tesla Motors","Amerykańscy producenci samochodów","Marki samochodów","Amerykańscy producenci samochodów elektrycznych","Producenci samochodów elektrycznych","Spółki notowane na NASDAQ",
+"Przedsiębiorstwa z siedzibą w Palo Alto (Kalifornia)"],"wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"Tesla,_Inc.","wgRelevantArticleId":637186,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":60050790,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"polski","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":37.429194,"lon":-122.138},"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":
+"interlanguage","wgWikibaseItemId":"Q478214"};RLSTATE={"ext.gadget.small-references":"ready","ext.gadget.citation-access-info":"ready","ext.gadget.main-page-css":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.ll-script-loader",
+"ext.gadget.maps","ext.gadget.heading-icons","ext.gadget.refToolbar","ext.gadget.edit-buttons","ext.gadget.edit-summaries","ext.gadget.edit-first-section","ext.gadget.edit-summary-warning","ext.gadget.wikibugs","ext.gadget.nuxTBKeys","ext.gadget.enhanced-upload","ext.gadget.map-toggler","ext.gadget.ReferenceTooltips","ext.gadget.narrowFootnoteColumns","ext.gadget.WDsearch","ext.gadget.main-page-js","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"pl"});
+});});
+  </script>
+  <link href="/w/load.php?lang=pl&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=pl&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=pl&amp;modules=ext.gadget.citation-access-info%2Cmain-page-css%2Csmall-references&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?lang=pl&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.36.0-wmf.4" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/1200px-Tesla_Motors.svg.png" property="og:image"/>
+  <link href="/w/index.php?title=Tesla,_Inc.&amp;action=edit" rel="alternate" title="Edytuj" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Tesla,_Inc.&amp;action=edit" rel="edit" title="Edytuj"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (pl)" type="application/opensearchdescription+xml"/>
+  <link href="//pl.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="/w/index.php?title=Specjalna:Ostatnie_zmiany&amp;feed=atom" rel="alternate" title="Kanał Atom Wikipedii" type="application/atom+xml"/>
+  <link href="https://pl.wikipedia.org/wiki/Tesla,_Inc." rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Tesla_Inc rootpage-Tesla_Inc skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div class="mw-body-content" id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators mw-body-content">
+    <div class="mw-indicator" id="mw-indicator-coordinates">
+     <span class="coordinates plainlinks" id="coordinates">
+      Na mapach:
+      <a href="/wiki/Ziemia" title="Ziemia">
+       <img alt="Ziemia" data-file-height="160" data-file-width="160" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/20px-Geographylogo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/30px-Geographylogo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/40px-Geographylogo.svg.png 2x" width="20"/>
+      </a>
+      <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?language=pl&amp;pagename=Tesla,_Inc.&amp;params=37.429194444444_N_122.138_W">
+       <span class="geo-default">
+        <span class="geo-dms" title="Mapy, zdjęcia satelitarne i inne informacje dotyczące miejsca o współrzędnych geograficznych 37°25′45,1″N 122°08′16,8″W">
+         <span class="latitude">
+          37°25′45,1″N
+         </span>
+         <span class="longitude">
+          122°08′16,8″W
+         </span>
+        </span>
+       </span>
+       <span class="geo-multi-punct">
+        /
+       </span>
+       <span class="geo-nondefault">
+        <span class="geo-dms" title="Mapy, zdjęcia satelitarne i inne informacje dotyczące miejsca o współrzędnych geograficznych 37,429194 -122,138000">
+         <span class="latitude">
+          37,429194
+         </span>
+         <span class="longitude">
+          -122,138000
+         </span>
+        </span>
+       </span>
+      </a>
+     </span>
+    </div>
+   </div>
+   <h1 class="firstHeading" id="firstHeading" lang="pl">
+    Tesla, Inc.
+   </h1>
+   <div class="mw-body-content" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Z Wikipedii, wolnej encyklopedii
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Przejdź do nawigacji
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Przejdź do wyszukiwania
+    </a>
+    <div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="pl">
+     <div class="mw-parser-output">
+      <table class="infobox">
+       <tbody>
+        <tr style="text-align:center; color:black; background-color:#EAECF0; border-bottom:1px solid #aaa;">
+         <td class="naglowek" colspan="2" style="padding:0;">
+          <table cellpadding="4" cellspacing="0" style="width:100% !important; display:table; margin:0px; background-color:transparent;">
+           <tbody>
+            <tr>
+             <td style="font-size:120%; vertical-align:middle;">
+              <span style="font-weight:bold;">
+               Tesla
+              </span>
+              <br/>
+              <span style="font-style:italic;">
+               Tesla, Inc.
+              </span>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center; font-size:95%; background-color:white; border-top:1px solid #eee; border:1px solid #aaa;">
+          <a class="image" href="/wiki/Plik:Tesla_Motors.svg">
+           <img alt="Ilustracja" data-file-height="360" data-file-width="279" decoding="async" height="240" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/186px-Tesla_Motors.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/279px-Tesla_Motors.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/372px-Tesla_Motors.svg.png 2x" width="186"/>
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td style="background: #eeeeee; vertical-align: top;">
+          <a href="/wiki/Pa%C5%84stwo" title="Państwo">
+           Państwo
+          </a>
+         </td>
+         <td>
+          <span class="flagicon">
+           <img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" width="22"/>
+          </span>
+          <a href="/wiki/Stany_Zjednoczone" title="Stany Zjednoczone">
+           Stany Zjednoczone
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td style="background: #eeeeee; vertical-align: top;">
+          Siedziba
+         </td>
+         <td>
+          <a href="/wiki/Palo_Alto_(Kalifornia)" title="Palo Alto (Kalifornia)">
+           Palo Alto
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td style="background: #eeeeee; vertical-align: top;">
+          Data założenia
+         </td>
+         <td>
+          2003
+         </td>
+        </tr>
+        <tr>
+         <td style="background: #eeeeee; vertical-align: top;">
+          <a href="/wiki/Formy_prawne_przedsi%C4%99biorstw" title="Formy prawne przedsiębiorstw">
+           Forma prawna
+          </a>
+         </td>
+         <td>
+          <a href="/wiki/Sp%C3%B3%C5%82ka_publiczna" title="Spółka publiczna">
+           spółka publiczna
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td style="background: #eeeeee; vertical-align: top;">
+          Prezes
+         </td>
+         <td>
+          <a class="new" href="/w/index.php?title=Robyn_Denholm&amp;action=edit&amp;redlink=1" title="Robyn Denholm (strona nie istnieje)">
+           Robyn Denholm
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td style="background: #eeeeee; vertical-align: top;">
+          Zatrudnienie
+         </td>
+         <td>
+          33 tys. osób (2017)
+         </td>
+        </tr>
+        <tr>
+         <td style="background: #eeeeee; vertical-align: top;">
+          Giełda
+         </td>
+         <td>
+          <a href="/wiki/NASDAQ" title="NASDAQ">
+           NASDAQ
+          </a>
+          :
+          <a class="external text" href="http://www.nasdaq.com/symbol/TSLA" rel="nofollow">
+           TSLA
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td style="background: #eeeeee; vertical-align: top;">
+          <a href="/wiki/International_Securities_Identification_Number" title="International Securities Identification Number">
+           ISIN
+          </a>
+         </td>
+         <td>
+          <span class="plainlinks">
+           <a class="external text" href="https://tools.wmflabs.org/isin/?language=en&amp;isin=US88160R1014">
+            US88160R1014
+           </a>
+          </span>
+         </td>
+        </tr>
+        <tr class="infobox-locationmap" style="background-color:white; text-align:center; border-top:1px solid #aaa;">
+         <td colspan="2">
+          <div style="text-align:center;margin:0 auto;width:242px">
+           <div style="color:gray;font-weight:bold">
+            Położenie na mapie Kalifornii
+           </div>
+           <div class="mapa-lokalizacyjna">
+            <div style="width:238px;padding:0;border:0 solid #aaa;position:relative">
+             <img alt="Mapa lokalizacyjna Kalifornii" data-file-height="1171" data-file-width="1022" decoding="async" height="273" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/USA_California_location_map.svg/238px-USA_California_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/USA_California_location_map.svg/357px-USA_California_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/USA_California_location_map.svg/476px-USA_California_location_map.svg.png 2x" title="Mapa lokalizacyjna Kalifornii" width="238"/>
+             <div style="top:48.189955106622%;left:23.722222222222%;margin:0;position:absolute;height:0;padding:0;z-index:2;width:0">
+              <div style="top:-7px;text-align:center;position:relative;line-height:14px;font-size:14px;left:-7px;width:14px">
+               <a href="//tools.wmflabs.org/geohack/geohack.php?language=pl&amp;params=37.429194444444_N_122.138_W_" title="Siedziba Tesla, Inc.">
+                <img alt="Siedziba Tesla, Inc." data-file-height="150" data-file-width="150" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Industriegebiet.png/14px-Industriegebiet.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Industriegebiet.png/21px-Industriegebiet.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Industriegebiet.png/28px-Industriegebiet.png 2x" width="14"/>
+               </a>
+              </div>
+              <div style="line-height:15.12px;position:absolute;width:120px;z-index:90;font-size:12.6px;top:-0.5em;float:left;left:9px;text-align:left">
+               <span style="text-shadow:0 0 5px white;;padding:1px">
+                Siedziba Tesla, Inc.
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr class="infobox-locationmap" style="background-color:white; text-align:center; border-top:1px solid #aaa;">
+         <td colspan="2">
+          <div style="text-align:center;margin:0 auto;width:242px">
+           <div style="color:gray;font-weight:bold">
+            Położenie na mapie Stanów Zjednoczonych
+           </div>
+           <div class="mapa-lokalizacyjna">
+            <div style="width:238px;padding:0;border:0 solid #aaa;position:relative">
+             <img alt="Mapa lokalizacyjna Stanów Zjednoczonych" data-file-height="731" data-file-width="1181" decoding="async" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/238px-Usa_edcp_location_map.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/357px-Usa_edcp_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Usa_edcp_location_map.svg/476px-Usa_edcp_location_map.svg.png 2x" title="Mapa lokalizacyjna Stanów Zjednoczonych" width="238"/>
+             <div style="top:43.883046714268%;left:5.7967533022453%;margin:0;position:absolute;height:0;padding:0;z-index:2;width:0">
+              <div style="top:-7px;text-align:center;position:relative;line-height:14px;font-size:14px;left:-7px;width:14px">
+               <a href="//tools.wmflabs.org/geohack/geohack.php?language=pl&amp;params=37.429194444444_N_122.138_W_" title="Siedziba Tesla, Inc.">
+                <img alt="Siedziba Tesla, Inc." data-file-height="150" data-file-width="150" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Industriegebiet.png/14px-Industriegebiet.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Industriegebiet.png/21px-Industriegebiet.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Industriegebiet.png/28px-Industriegebiet.png 2x" width="14"/>
+               </a>
+              </div>
+              <div style="line-height:15.12px;position:absolute;width:120px;z-index:90;font-size:12.6px;top:-0.5em;float:left;left:9px;text-align:left">
+               <span style="text-shadow:0 0 5px white;;padding:1px">
+                Siedziba Tesla, Inc.
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td colspan="2" style="background-color:white; text-align:center; border-bottom:1px solid #aaa;">
+          <span class="coordinates inline inline-and-top plainlinks">
+           <a href="/wiki/Ziemia" title="Ziemia">
+            <img alt="Ziemia" data-file-height="160" data-file-width="160" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/20px-Geographylogo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/30px-Geographylogo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Geographylogo.svg/40px-Geographylogo.svg.png 2x" width="20"/>
+           </a>
+           <a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?language=pl&amp;pagename=Tesla,_Inc.&amp;params=37.429194444444_N_122.138_W">
+            <span class="geo-default">
+             <span class="geo-dms" title="Mapy, zdjęcia satelitarne i inne informacje dotyczące miejsca o współrzędnych geograficznych 37°25′45,1″N 122°08′16,8″W">
+              <span class="latitude">
+               37°25′45,1″N
+              </span>
+              <span class="longitude">
+               122°08′16,8″W
+              </span>
+             </span>
+            </span>
+            <span class="geo-multi-punct">
+             /
+            </span>
+            <span class="geo-nondefault">
+             <span class="geo-dms" title="Mapy, zdjęcia satelitarne i inne informacje dotyczące miejsca o współrzędnych geograficznych 37,429194 -122,138000">
+              <span class="latitude">
+               37,429194
+              </span>
+              <span class="longitude">
+               -122,138000
+              </span>
+             </span>
+            </span>
+           </a>
+          </span>
+         </td>
+        </tr>
+        <tr class="noprint plainlinks" style="background:white; border-top:1px solid #aaa; text-align:center;">
+         <td colspan="2" style="padding:0;">
+          <table cellpadding="4" cellspacing="0" style="width:100%; margin:0px; background:transparent;">
+           <tbody>
+            <tr>
+             <td style="vertical-align:middle; width:30px;">
+              <a href="https://commons.wikimedia.org/wiki/Category:Tesla_Inc." title="Commons">
+               <img alt="Commons" data-file-height="1376" data-file-width="1024" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/21px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/31px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/42px-Commons-logo.svg.png 2x" width="21"/>
+              </a>
+             </td>
+             <td style="vertical-align:middle;">
+              <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Tesla_Inc." title="commons:Category:Tesla Inc.">
+               Multimedia w Wikimedia Commons
+              </a>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center; background-color:#EAECF0; border-top:1px solid #aaa;">
+          <a class="external text" href="https://www.tesla.com/" rel="nofollow">
+           Strona internetowa
+          </a>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:227px;">
+        <a class="image" href="/wiki/Plik:Roadster_2.5_windmills_trimmed.jpg">
+         <img alt="" class="thumbimage" data-file-height="1600" data-file-width="2647" decoding="async" height="136" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Roadster_2.5_windmills_trimmed.jpg/225px-Roadster_2.5_windmills_trimmed.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Roadster_2.5_windmills_trimmed.jpg/338px-Roadster_2.5_windmills_trimmed.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Roadster_2.5_windmills_trimmed.jpg/450px-Roadster_2.5_windmills_trimmed.jpg 2x" width="225"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/Plik:Roadster_2.5_windmills_trimmed.jpg" title="Powiększ">
+          </a>
+         </div>
+         Tesla Roadster (2008)
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:227px;">
+        <a class="image" href="/wiki/Plik:Tesla_Model_S_(108)_(cropped).JPG">
+         <img alt="" class="thumbimage" data-file-height="1442" data-file-width="2560" decoding="async" height="127" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tesla_Model_S_%28108%29_%28cropped%29.JPG/225px-Tesla_Model_S_%28108%29_%28cropped%29.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tesla_Model_S_%28108%29_%28cropped%29.JPG/338px-Tesla_Model_S_%28108%29_%28cropped%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tesla_Model_S_%28108%29_%28cropped%29.JPG/450px-Tesla_Model_S_%28108%29_%28cropped%29.JPG 2x" width="225"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/Plik:Tesla_Model_S_(108)_(cropped).JPG" title="Powiększ">
+          </a>
+         </div>
+         Tesla Model S Concept
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:227px;">
+        <a class="image" href="/wiki/Plik:2015_Tesla_Model_S.jpg">
+         <img alt="" class="thumbimage" data-file-height="2375" data-file-width="4796" decoding="async" height="111" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2015_Tesla_Model_S.jpg/225px-2015_Tesla_Model_S.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2015_Tesla_Model_S.jpg/338px-2015_Tesla_Model_S.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2015_Tesla_Model_S.jpg/450px-2015_Tesla_Model_S.jpg 2x" width="225"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/Plik:2015_Tesla_Model_S.jpg" title="Powiększ">
+          </a>
+         </div>
+         Tesla Model S
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:227px;">
+        <a class="image" href="/wiki/Plik:2019_Tesla_Model_3_Performance_AWD_Front.jpg">
+         <img alt="" class="thumbimage" data-file-height="2143" data-file-width="4685" decoding="async" height="103" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/2019_Tesla_Model_3_Performance_AWD_Front.jpg/225px-2019_Tesla_Model_3_Performance_AWD_Front.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/2019_Tesla_Model_3_Performance_AWD_Front.jpg/338px-2019_Tesla_Model_3_Performance_AWD_Front.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/2019_Tesla_Model_3_Performance_AWD_Front.jpg/450px-2019_Tesla_Model_3_Performance_AWD_Front.jpg 2x" width="225"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/Plik:2019_Tesla_Model_3_Performance_AWD_Front.jpg" title="Powiększ">
+          </a>
+         </div>
+         Tesla Model 3
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:227px;">
+        <a class="image" href="/wiki/Plik:2017_Tesla_Model_X_100D_Front.jpg">
+         <img alt="" class="thumbimage" data-file-height="1915" data-file-width="3785" decoding="async" height="114" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/225px-2017_Tesla_Model_X_100D_Front.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/338px-2017_Tesla_Model_X_100D_Front.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/450px-2017_Tesla_Model_X_100D_Front.jpg 2x" width="225"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/Plik:2017_Tesla_Model_X_100D_Front.jpg" title="Powiększ">
+          </a>
+         </div>
+         Tesla Model X
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:227px;">
+        <a class="image" href="/wiki/Plik:Tesla_Model_Y_front_passenger_side_view.jpg">
+         <img alt="" class="thumbimage" data-file-height="2682" data-file-width="3913" decoding="async" height="154" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tesla_Model_Y_front_passenger_side_view.jpg/225px-Tesla_Model_Y_front_passenger_side_view.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tesla_Model_Y_front_passenger_side_view.jpg/338px-Tesla_Model_Y_front_passenger_side_view.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tesla_Model_Y_front_passenger_side_view.jpg/450px-Tesla_Model_Y_front_passenger_side_view.jpg 2x" width="225"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/Plik:Tesla_Model_Y_front_passenger_side_view.jpg" title="Powiększ">
+          </a>
+         </div>
+         Tesla Model Y
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:227px;">
+        <a class="image" href="/wiki/Plik:Tesla_Roadster_2.0_(47619421652).jpg">
+         <img alt="" class="thumbimage" data-file-height="2819" data-file-width="4146" decoding="async" height="153" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tesla_Roadster_2.0_%2847619421652%29.jpg/225px-Tesla_Roadster_2.0_%2847619421652%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tesla_Roadster_2.0_%2847619421652%29.jpg/338px-Tesla_Roadster_2.0_%2847619421652%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tesla_Roadster_2.0_%2847619421652%29.jpg/450px-Tesla_Roadster_2.0_%2847619421652%29.jpg 2x" width="225"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/Plik:Tesla_Roadster_2.0_(47619421652).jpg" title="Powiększ">
+          </a>
+         </div>
+         Tesla Roadster (2020)
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:227px;">
+        <a class="image" href="/wiki/Plik:Tesla_Cybertruck_outside_unveil_modified_by_Smnt.jpg">
+         <img alt="" class="thumbimage" data-file-height="798" data-file-width="1690" decoding="async" height="106" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tesla_Cybertruck_outside_unveil_modified_by_Smnt.jpg/225px-Tesla_Cybertruck_outside_unveil_modified_by_Smnt.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tesla_Cybertruck_outside_unveil_modified_by_Smnt.jpg/338px-Tesla_Cybertruck_outside_unveil_modified_by_Smnt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tesla_Cybertruck_outside_unveil_modified_by_Smnt.jpg/450px-Tesla_Cybertruck_outside_unveil_modified_by_Smnt.jpg 2x" width="225"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/Plik:Tesla_Cybertruck_outside_unveil_modified_by_Smnt.jpg" title="Powiększ">
+          </a>
+         </div>
+         Tesla Cybertruck
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:227px;">
+        <a class="image" href="/wiki/Plik:Tesla_Semi_5.jpg">
+         <img alt="" class="thumbimage" data-file-height="938" data-file-width="1668" decoding="async" height="127" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tesla_Semi_5.jpg/225px-Tesla_Semi_5.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tesla_Semi_5.jpg/338px-Tesla_Semi_5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tesla_Semi_5.jpg/450px-Tesla_Semi_5.jpg 2x" width="225"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/Plik:Tesla_Semi_5.jpg" title="Powiększ">
+          </a>
+         </div>
+         Tesla Semi
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:227px;">
+        <a class="image" href="/wiki/Plik:Tesla_Cyberquad_on_display_at_unveil.jpg">
+         <img alt="" class="thumbimage" data-file-height="1365" data-file-width="2048" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tesla_Cyberquad_on_display_at_unveil.jpg/225px-Tesla_Cyberquad_on_display_at_unveil.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tesla_Cyberquad_on_display_at_unveil.jpg/338px-Tesla_Cyberquad_on_display_at_unveil.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Tesla_Cyberquad_on_display_at_unveil.jpg/450px-Tesla_Cyberquad_on_display_at_unveil.jpg 2x" width="225"/>
+        </a>
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a class="internal" href="/wiki/Plik:Tesla_Cyberquad_on_display_at_unveil.jpg" title="Powiększ">
+          </a>
+         </div>
+         Tesla Cyberquad
+        </div>
+       </div>
+      </div>
+      <p>
+       <b>
+        Tesla, Inc.
+       </b>
+       – amerykański producent
+       <a class="mw-redirect" href="/wiki/Samoch%C3%B3d_elektryczny" title="Samochód elektryczny">
+        elektrycznych samochodów
+       </a>
+       osobowych, SUV-ów, pickupów, samochodów sportowych oraz ciągników siodłowych z siedzibą w
+       <a href="/wiki/Palo_Alto_(Kalifornia)" title="Palo Alto (Kalifornia)">
+        Palo Alto
+       </a>
+       działający od 2003 roku.
+      </p>
+      <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation">
+       <input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/>
+       <div class="toctitle" dir="ltr" lang="pl">
+        <h2 id="mw-toc-heading">
+         Spis treści
+        </h2>
+        <span class="toctogglespan">
+         <label class="toctogglelabel" for="toctogglecheckbox">
+         </label>
+        </span>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Historia">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Historia
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-2">
+           <a href="#Początki">
+            <span class="tocnumber">
+             1.1
+            </span>
+            <span class="toctext">
+             Początki
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-3">
+           <a href="#Premiery">
+            <span class="tocnumber">
+             1.2
+            </span>
+            <span class="toctext">
+             Premiery
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-4">
+           <a href="#Sprzedaż">
+            <span class="tocnumber">
+             1.3
+            </span>
+            <span class="toctext">
+             Sprzedaż
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-5">
+           <a href="#Oprogramowanie">
+            <span class="tocnumber">
+             1.4
+            </span>
+            <span class="toctext">
+             Oprogramowanie
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Wartość_giełdowa">
+            <span class="tocnumber">
+             1.5
+            </span>
+            <span class="toctext">
+             Wartość giełdowa
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Strategia">
+            <span class="tocnumber">
+             1.6
+            </span>
+            <span class="toctext">
+             Strategia
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Milion_samochodów">
+            <span class="tocnumber">
+             1.7
+            </span>
+            <span class="toctext">
+             Milion samochodów
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#Modele_samochodów">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Modele samochodów
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-10">
+           <a href="#Obecnie_produkowane">
+            <span class="tocnumber">
+             2.1
+            </span>
+            <span class="toctext">
+             Obecnie produkowane
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-11">
+             <a href="#Samochody_osobowe">
+              <span class="tocnumber">
+               2.1.1
+              </span>
+              <span class="toctext">
+               Samochody osobowe
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-12">
+             <a href="#Crossovery">
+              <span class="tocnumber">
+               2.1.2
+              </span>
+              <span class="toctext">
+               Crossovery
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-13">
+             <a href="#Pickupy">
+              <span class="tocnumber">
+               2.1.3
+              </span>
+              <span class="toctext">
+               Pickupy
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-14">
+             <a href="#Samochody_sportowe">
+              <span class="tocnumber">
+               2.1.4
+              </span>
+              <span class="toctext">
+               Samochody sportowe
+              </span>
+             </a>
+            </li>
+            <li class="toclevel-3 tocsection-15">
+             <a href="#Inne">
+              <span class="tocnumber">
+               2.1.5
+              </span>
+              <span class="toctext">
+               Inne
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#Przypisy">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Przypisy
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-17">
+         <a href="#Linki_zewnętrzne">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Linki zewnętrzne
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Historia">
+        Historia
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=1" title="Edytuj sekcję: Historia">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=1" title="Edytuj sekcję: Historia">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span id="Pocz.C4.85tki">
+       </span>
+       <span class="mw-headline" id="Początki">
+        Początki
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=2" title="Edytuj sekcję: Początki">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=2" title="Edytuj sekcję: Początki">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Od 2003 do 2008 roku trwały prace nad wprowadzeniem do produkcji pierwszego samochodu marki Tesla o nazwie
+       <a href="/wiki/Tesla_Roadster" title="Tesla Roadster">
+        Roadster
+       </a>
+       . Auto powstało we współpracy z
+       <a href="/wiki/Lotus_Cars" title="Lotus Cars">
+        Lotus Cars
+       </a>
+       . Sylwetka auta zbliżona jest do
+       <a href="/wiki/Lotus_Elise" title="Lotus Elise">
+        Lotusa Elise
+       </a>
+       oraz
+       <a href="/wiki/Lotus_Europa" title="Lotus Europa">
+        Europa
+       </a>
+       <sup class="reference" id="cite_ref-1">
+        <a href="#cite_note-1">
+         [1]
+        </a>
+       </sup>
+       . Pojazd wprowadzono do produkcji w 2008 roku. Rok później zaprezentowano
+       <a href="/wiki/Samoch%C3%B3d_koncepcyjny" title="Samochód koncepcyjny">
+        prototyp
+       </a>
+       7-osobowego
+       <a href="/wiki/Liftback" title="Liftback">
+        liftbacka
+       </a>
+       <a href="/wiki/Autosegment_E" title="Autosegment E">
+        segmentu E
+       </a>
+       o zasięgu na jednym ładowaniu 300 mil oraz sportowych osiągach.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Premiery">
+        Premiery
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=3" title="Edytuj sekcję: Premiery">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=3" title="Edytuj sekcję: Premiery">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Produkcja pierwszego seryjnego samochodu Tesli rozpoczęła się w czerwcu 2012 roku pod nazwą
+       <a href="/wiki/Tesla_Model_S" title="Tesla Model S">
+        Model S
+       </a>
+       . Pod koniec 2014 roku do produkcji wszedł wariant z dwoma silnikami elektrycznymi, pozwalający na osiągnięcie 100 km/h w 3,2 s. Każdy produkowany od tamtego momentu pojazd otrzymał system aktywnej prewencji kolizji oraz możliwość dokupienia systemu
+       <a href="/wiki/Automatyczny_pilot" title="Automatyczny pilot">
+        Autopilot
+       </a>
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       .
+      </p>
+      <p>
+       29 września 2015 roku odbyła się prezentacja oraz wręczenie pierwszych kluczyków do nowego
+       <a href="/wiki/Tesla_Model_X" title="Tesla Model X">
+        Modelu X
+       </a>
+       , który jest siedmioosobowym
+       <a href="/wiki/Crossover_(samoch%C3%B3d)" title="Crossover (samochód)">
+        crossoverem
+       </a>
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       . 31 marca 2016 został zaprezentowany
+       <a href="/wiki/Tesla_Model_3" title="Tesla Model 3">
+        Model 3
+       </a>
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       . W 2019 roku odbyły się z kolei dwie premiery nowych pojazdów - w marcu przedstawionego średniej wielkości crossovera
+       <a href="/wiki/Tesla_Model_Y" title="Tesla Model Y">
+        Model Y
+       </a>
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+       , a w listopadzie dużego pickupa
+       <a href="/wiki/Tesla_Cybertruck" title="Tesla Cybertruck">
+        Cybertruck
+       </a>
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       .
+      </p>
+      <h3>
+       <span id="Sprzeda.C5.BC">
+       </span>
+       <span class="mw-headline" id="Sprzedaż">
+        Sprzedaż
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=4" title="Edytuj sekcję: Sprzedaż">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=4" title="Edytuj sekcję: Sprzedaż">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Globalna sprzedaż Tesli przekroczyła 250 000 sztuk we wrześniu 2017 r., a 300 000 pojazd został wyprodukowany w lutym 2018 r. Najlepiej sprzedającym się samochodem był początkowo Model S, którego sprzedaż na całym świecie wyniosła około 218 874 sztuk w okresie od czerwca 2012 r. do grudnia 2017 r., a model X – około 72 059 sztuk sprzedanych w okresie od września 2015 r. do grudnia 2017 r
+       <sup class="reference" id="cite_ref-7">
+        <a href="#cite_note-7">
+         [7]
+        </a>
+       </sup>
+       . Dostawy modelu 3 wyniosły w 2017 r. 1764 sztuki. Obecnie nieprodukowany jeszcze Roadster został już sprzedany w ilości około 2450 sztuk. W lipcu 2017 r. Tesla twierdziła, że ich pojazdy przejechały 5 miliardów mil (8 miliardów km).
+      </p>
+      <p>
+       W 2016 BYD Auto było najlepiej sprzedającym się producentem aut elektrycznych na świecie, sprzedając 101 183 sztuk, a Tesla – 76 243. Przychody Tesli osiągnęły jednak 6,35 mld USD, podczas gdy indeks BYD osiągnął 3,88 mld USD
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+       . Również w 2016 roku firma sprzedała samochody o wartości 1 miliarda USD w Chinach, największym na świecie rynku pojazdów elektrycznych, a w październiku następnego roku osiągnęła porozumienie z chińskim rządem w sprawie budowy fabryki w Szanghaju
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+       .
+      </p>
+      <p>
+       Od października 2016 r. Tesla prowadziła około 260 galerii lub punktów sprzedaży detalicznej w Stanach Zjednoczonych. W czerwcu 2016 r. Tesla otworzyła swój pierwszy „sklep w sklepie”: małą placówkę w domu towarowym Nordstrom w centrum handlowym The Grove w Los Angeles
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+       . W 2017 roku Tesla otworzyła lokalizacje handlowe w Dubaju i Korei Południowej
+       <sup class="reference" id="cite_ref-11">
+        <a href="#cite_note-11">
+         [11]
+        </a>
+       </sup>
+       .
+      </p>
+      <p>
+       W sierpniu 2015 r. Tesla rozpoczęła reorganizację swoich sklepów, wprowadzając interaktywne wyświetlacze dotyczące bezpieczeństwa, autopilota, sieci ładującej i silników
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+       . W 2017 r. Tesla dysponowała budżetem marketingowym w wysokości 52 mln USD i skorzystała z programu rekomendacji oraz kampanii informacyjnej, aby przyciągnąć kupujących
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Oprogramowanie">
+        Oprogramowanie
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=5" title="Edytuj sekcję: Oprogramowanie">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=5" title="Edytuj sekcję: Oprogramowanie">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Oprogramowanie Tesli umożliwia nie tylko jazdę autonomiczną. Od aktualizacji 9.0 ma pozwalać także na granie w gry z
+       <a class="mw-disambig" href="/wiki/Atari" title="Atari">
+        Atari
+       </a>
+       . Nie tylko na wyświetlaczu, np. kontrolerem w Pole Position ma być kierownica samochodu (podczas postoju)
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       .
+      </p>
+      <h3>
+       <span id="Warto.C5.9B.C4.87_gie.C5.82dowa">
+       </span>
+       <span class="mw-headline" id="Wartość_giełdowa">
+        Wartość giełdowa
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=6" title="Edytuj sekcję: Wartość giełdowa">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=6" title="Edytuj sekcję: Wartość giełdowa">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Tesla na giełdzie w 2017 była wyceniana wyżej niż
+       <a href="/wiki/General_Motors" title="General Motors">
+        General Motors
+       </a>
+       i
+       <a class="mw-redirect" href="/wiki/Ford" title="Ford">
+        Ford
+       </a>
+       . Odpowiednio dla Tesli było 50,84 mld dolarów, około 50 mln dolarów więcej niż GM, Ford był wyceniany na 45 mld. W styczniu 2018 na Wall Street, za akcję Tesli płacono ok. 346 dolarów. Akcje General Motors wyceniane są na 44,16 dolara, Forda na 12,05 dolara
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+       .
+      </p>
+      <h3>
+       <span class="mw-headline" id="Strategia">
+        Strategia
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=7" title="Edytuj sekcję: Strategia">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=7" title="Edytuj sekcję: Strategia">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Strategia motoryzacyjna Tesli polega na emulowaniu typowych cykli życia produktów technologicznych i początkowo skierowana jest do zamożnych nabywców. Następnie wprowadziłby się na większe rynki w niższych cenach. Technologia akumulatora i napędu elektrycznego dla każdego modelu będzie opracowywana i opłacana poprzez sprzedaż wcześniejszych modeli
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+       . Roadster był niskobudżetowy i wyceniony na 109 000 USD. Model S i Model X były ukierunkowane na bardziej luksusowy rynek. Model 3 jest skierowany do segmentu wyższego rzędu. Ta strategia biznesowa jest powszechna w branży technologicznej
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [17]
+        </a>
+       </sup>
+       . Według postu na blogu Elona Muska, „Nowa technologia w dowolnej dziedzinie wymaga kilku wersji do optymalizacji przed dotarciem na rynek masowy, w tym przypadku konkuruje ze 150 latami i bilionami dolarów wydanymi na samochody benzynowe”
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [18]
+        </a>
+       </sup>
+       .
+      </p>
+      <p>
+       Strategia produkcji Tesli obejmuje wysoki stopień integracji pionowej (80% na 2016 r.), która obejmuje produkcję komponentów i własną infrastrukturę do ładowania. Firma prowadzi ogromne fabryki, aby uzyskać korzyści skali
+       <sup class="reference" id="cite_ref-19">
+        <a href="#cite_note-19">
+         [19]
+        </a>
+       </sup>
+       . Tesla buduje elektryczne podzespoły układu napędowego do pojazdów innych producentów, w tym inteligentny napęd elektryczny ED2 ForTwo (najtańszy samochód
+       <a href="/wiki/Daimler_AG" title="Daimler AG">
+        Daimler AG
+       </a>
+       ),
+       <a href="/wiki/Toyota_RAV4" title="Toyota RAV4">
+        Toyota RAV4
+       </a>
+       EV i niestandardowy elektryczny samochód dostawczy
+       <a class="mw-disambig" href="/wiki/Freightliner" title="Freightliner">
+        Freightliner
+       </a>
+       . Integracja pionowa jest rzadkością w branży motoryzacyjnej, gdzie firmy zazwyczaj zlecają dostawcom wytworzenie 80% komponentów i koncentrują się na produkcji silników i montażu końcowym
+       <sup class="reference" id="cite_ref-20">
+        <a href="#cite_note-20">
+         [20]
+        </a>
+       </sup>
+       .
+      </p>
+      <p>
+       Strategia sprzedaży Tesli polega na sprzedaży swoich pojazdów w salonach firmowych i w Internecie, zamiast na tradycyjnej strategii dealerskiej. Strategia technologiczna Tesli koncentruje się na czysto-elektrycznej technologii napędowej i przenoszeniu innych podejść z branży technologicznej na transport, takich jak aktualizacje oprogramowania online
+       <sup class="reference" id="cite_ref-21">
+        <a href="#cite_note-21">
+         [21]
+        </a>
+       </sup>
+       . Tesla umożliwia używanie patentów technologicznych każdemu, kto będzie to robił w dobrej wierze. Umowy licencyjne zawierają postanowienia, na mocy których odbiorca zgadza się nie składać pozwów przeciwko Tesli lub bezpośrednio kopiować ich wzorów
+       <sup class="reference" id="cite_ref-22">
+        <a href="#cite_note-22">
+         [22]
+        </a>
+       </sup>
+       . Tesla zachowała kontrolę nad swoją inną własnością intelektualną, taką jak znaki handlowe i tajemnice handlowe, aby zapobiec bezpośredniemu kopiowaniu jej technologii
+       <sup class="reference" id="cite_ref-23">
+        <a href="#cite_note-23">
+         [23]
+        </a>
+       </sup>
+       .
+      </p>
+      <p>
+       Wiceprezes ds. zasobów ludzkich Arnnon Geshuri zobowiązał się do przeniesienia prac produkcyjnych „z powrotem do Kalifornii”
+       <sup class="reference" id="cite_ref-24">
+        <a href="#cite_note-24">
+         [24]
+        </a>
+       </sup>
+       . W 2015 r. Geshuri przeprowadził gwałtowny wzrost zatrudnienia, o którym mówił; „W ciągu ostatnich 14 miesięcy mieliśmy 1,5 miliona aplikacji z całego świata, ludzie chcą tu pracować”. Geshuri kładzie nacisk na zatrudnianie weteranów, mówiąc: „Weterani są świetnym źródłem talentu dla Tesli i my tego chcemy”
+       <sup class="reference" id="cite_ref-25">
+        <a href="#cite_note-25">
+         [25]
+        </a>
+       </sup>
+       .
+      </p>
+      <p>
+       Do 31 stycznia 2016 przedsiębiorstwo funkcjonowało pod firmą Tesla Motors
+       <sup class="reference" id="cite_ref-26">
+        <a href="#cite_note-26">
+         [26]
+        </a>
+       </sup>
+       .
+      </p>
+      <h3>
+       <span id="Milion_samochod.C3.B3w">
+       </span>
+       <span class="mw-headline" id="Milion_samochodów">
+        Milion samochodów
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=8" title="Edytuj sekcję: Milion samochodów">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=8" title="Edytuj sekcję: Milion samochodów">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       16 marca
+       <a href="/wiki/2020" title="2020">
+        2020
+       </a>
+       produkcja Tesli przekroczyła poziom miliona samochodów. Milionowym pojazdem była
+       <a href="/wiki/Tesla_Model_Y" title="Tesla Model Y">
+        Tesla Model Y
+       </a>
+       w kolorze czerwonym. Od czasu osiągnięcia poziomu produkcji 300 tysięcy sztuk w 2018 roku do miliona w 2020 minęły dwa lata
+       <sup class="reference" id="cite_ref-27">
+        <a href="#cite_note-27">
+         [27]
+        </a>
+       </sup>
+       .
+      </p>
+      <h2>
+       <span id="Modele_samochod.C3.B3w">
+       </span>
+       <span class="mw-headline" id="Modele_samochodów">
+        Modele samochodów
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=9" title="Edytuj sekcję: Modele samochodów">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=9" title="Edytuj sekcję: Modele samochodów">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span class="mw-headline" id="Obecnie_produkowane">
+        Obecnie produkowane
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=10" title="Edytuj sekcję: Obecnie produkowane">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=10" title="Edytuj sekcję: Obecnie produkowane">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <h4>
+       <span class="mw-headline" id="Samochody_osobowe">
+        Samochody osobowe
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=11" title="Edytuj sekcję: Samochody osobowe">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=11" title="Edytuj sekcję: Samochody osobowe">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <ul>
+       <li>
+        <a href="/wiki/Tesla_Model_3" title="Tesla Model 3">
+         Model 3
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Tesla_Model_S" title="Tesla Model S">
+         Model S
+        </a>
+       </li>
+      </ul>
+      <h4>
+       <span class="mw-headline" id="Crossovery">
+        Crossovery
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=12" title="Edytuj sekcję: Crossovery">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=12" title="Edytuj sekcję: Crossovery">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <ul>
+       <li>
+        <a href="/wiki/Tesla_Model_Y" title="Tesla Model Y">
+         Model Y
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Tesla_Model_X" title="Tesla Model X">
+         Model X
+        </a>
+       </li>
+      </ul>
+      <h4>
+       <span class="mw-headline" id="Pickupy">
+        Pickupy
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=13" title="Edytuj sekcję: Pickupy">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=13" title="Edytuj sekcję: Pickupy">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <ul>
+       <li>
+        <a href="/wiki/Tesla_Cybertruck" title="Tesla Cybertruck">
+         Cybertruck
+        </a>
+       </li>
+      </ul>
+      <h4>
+       <span class="mw-headline" id="Samochody_sportowe">
+        Samochody sportowe
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=14" title="Edytuj sekcję: Samochody sportowe">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=14" title="Edytuj sekcję: Samochody sportowe">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <ul>
+       <li>
+        <a href="/wiki/Tesla_Roadster" title="Tesla Roadster">
+         Roadster
+        </a>
+       </li>
+      </ul>
+      <h4>
+       <span class="mw-headline" id="Inne">
+        Inne
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=15" title="Edytuj sekcję: Inne">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=15" title="Edytuj sekcję: Inne">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <ul>
+       <li>
+        <a class="new" href="/w/index.php?title=Tesla_Semi&amp;action=edit&amp;redlink=1" title="Tesla Semi (strona nie istnieje)">
+         Semi
+        </a>
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=Tesla_Cyberquad&amp;action=edit&amp;redlink=1" title="Tesla Cyberquad (strona nie istnieje)">
+         Cyberquad
+        </a>
+       </li>
+      </ul>
+      <p>
+       <br style="clear:both;"/>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Przypisy">
+        Przypisy
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=16" title="Edytuj sekcję: Przypisy">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=16" title="Edytuj sekcję: Przypisy">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <div class="do-not-make-smaller refsection">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-1">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-1">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.forbes.com/sites/quora/2014/12/29/how-much-equity-did-elon-musk-get-from-investing-in-teslas-series-a/#5013e3072a9f" rel="nofollow">
+             How Much Equity Did Elon Musk Get From Investing In Tesla's Series A?
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-2">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://newatlas.com/tesla-model-s-debut/11339/" rel="nofollow">
+             Tesla Model S unveiled!
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-3">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.wired.com/2015/09/tesla-model-x-suv-reveal-specs-price/" rel="nofollow">
+             Tesla's Model X Is Here, and It's as Awesome as We Hoped
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-4">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://mashable.com/2016/03/31/tesla-model-3-unveil/?europe=true" rel="nofollow">
+             Tesla unveils the Model 3, its mass-market electric car
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-5">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://eu.usatoday.com/story/money/cars/2019/03/14/tesla-model-y-revealed-elon-musk/3170798002/" rel="nofollow">
+             Tesla CEO Elon Musk reveals Model Y electric SUV: 'It will ride like a sports car'
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-6">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://edition.cnn.com/2019/11/22/cars/tesla-cybertruck-electric-pickup-truck/index.html" rel="nofollow">
+             Tesla reveals Cybertruck, but breaks its 'unbreakable' windows during unveiling
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-7">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-7">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.autonews.com/sales/us-sales-rise-22-dec-saar-hits-2018-high" rel="nofollow">
+             U.S. sales rise 2.2% in Dec.; SAAR hits 2018 high
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-8">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.hybridcars.com/tesla-model-s-is-worlds-best-selling-plug-in-car-for-second-year-in-a-row/" rel="nofollow">
+             Tesla Model S Is World’s Best-Selling Plug-in Car For Second Year In A Row
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-9">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="http://ev-sales.blogspot.com/2019/01/global-top-20-december-2018.html" rel="nofollow">
+             Global Top 20 - December 2018
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-10">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://money.cnn.com/2016/06/15/autos/tesla-nordstrom/index.html" rel="nofollow">
+             Tesla opens a store inside Nordstrom
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-11">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-11">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.inc.com/business-insider/tesla-opening-retail-stores-model-3-launch.html" rel="nofollow">
+             Tesla Plans to Open More Retail Locations Ahead of Model 3 Launch
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-12">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.bloomberg.com/news/articles/2015-08-21/new-for-fall-tesla-revamps-retail-stores-and-adds-apparel-gear" rel="nofollow">
+             Thanks for Buying a $100,000 Tesla. Want a Tote Bag With That?
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-13">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://web.archive.org/web/20160804130738/https://it.notizie.yahoo.com/german-ministry-denies-investigating-tesla-163319190.html" rel="nofollow">
+             Germany denies investigating Tesla over software updates
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-14">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.dobreprogramy.pl/Kultowe-gry-z-Atari-pojawia-sie-w-Tesli.-Do-sterowania-posluzy-kierownica,News,89659.html" rel="nofollow">
+             <i>
+              Kultowe gry z Atari pojawią się w Tesli. Do sterowania posłuży... kierownica
+             </i>
+            </a>
+            , www.dobreprogramy.pl
+            <span class="accessdate">
+             [dostęp 2018-08-05]
+            </span>
+            <span class="Z3988" style="display:none" title="ctx_ver=Z39.88-2004&amp;rft.gengre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Kultowe+gry+z+Atari+pojawi%C4%85+si%C4%99+w+Tesli.+Do+sterowania+pos%C5%82u%C5%BCy...+kierownica&amp;rft_id=https%3A%2F%2Fwww.dobreprogramy.pl%2FKultowe-gry-z-Atari-pojawia-sie-w-Tesli.-Do-sterowania-posluzy-kierownica%2CNews%2C89659.html">
+            </span>
+            <span class="lang-list tylko-pl">
+             (
+             <abbr title="Treść w języku polskim">
+              pol.
+             </abbr>
+             )
+            </span>
+            .
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-15">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="http://motoryzacja.interia.pl/wiadomosci/producenci/news-tesla-ujawnila-plan-rozwoju,nId,2514122" rel="nofollow">
+             <i>
+              Tesla ujawniła plan rozwoju – motoryzacja.interia.pl
+             </i>
+            </a>
+            , motoryzacja.interia.pl
+            <span class="accessdate">
+             [dostęp 2018-01-31]
+            </span>
+            <span class="Z3988" style="display:none" title="ctx_ver=Z39.88-2004&amp;rft.gengre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Tesla+ujawni%C5%82a+plan+rozwoju+%E2%80%93+motoryzacja.interia.pl&amp;rft_id=http%3A%2F%2Fmotoryzacja.interia.pl%2Fwiadomosci%2Fproducenci%2Fnews-tesla-ujawnila-plan-rozwoju%2CnId%2C2514122">
+            </span>
+            <span class="lang-list tylko-pl">
+             (
+             <abbr title="Treść w języku polskim">
+              pol.
+             </abbr>
+             )
+            </span>
+            .
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-16">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.tesla.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me" rel="nofollow">
+             The Secret Tesla Motors Master Plan (just between you and me)
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-17">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-17">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.nbcbayarea.com/news/local/abu-dhabi-joins-feds-as-tesla-investor/1854033/" rel="nofollow">
+             Abu Dhabi Joins Feds as Tesla Backer
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-18">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-18">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.greencarreports.com/news/1022275_msnbc-calls-ev-drivers-lunatic-fringe" rel="nofollow">
+             MSNBC Calls EV Drivers 'Lunatic Fringe'
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-19">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-19">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://genius.com/Peter-thiel-lecture-5-business-strategy-and-monopoly-theory-annotated" rel="nofollow">
+             Lecture 5: Business Strategy and Monopoly Theory
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+           <span class="problemy problemy-w-cytuj">
+            Sprawdź autora:1.
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-20">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-20">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://electrek.co/2016/02/26/tesla-vertically-integrated/" rel="nofollow">
+             Tesla is now ~80% vertically integrated, says Goldman Sachs after a Tesla Factory visit
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-21">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-21">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.thecarconnection.com/news/1092795_terrified-of-tesla-nada-launches-campaign-to-tout-benefits-of-franchise-dealerships" rel="nofollow">
+             Terrified Of Tesla, NADA Launches Campaign To Tout Benefits Of Franchise Dealerships
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-22">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-22">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://gigaom.com/2014/06/14/what-elon-musk-did-and-did-not-do-when-he-opened-teslas-patents/" rel="nofollow">
+             What Elon Musk did — and did not — do when he “opened” Tesla’s patents
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-23">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-23">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.tesla.com/blog/all-our-patent-are-belong-you" rel="nofollow">
+             All Our Patent Are Belong To You
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-24">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-24">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://www.latimes.com/business/la-xpm-2012-jan-17-la-fi-tesla-20120117-story.html" rel="nofollow">
+             Tesla gears up to hire manufacturing workers
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-25">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-25">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation nourl">
+            <i>
+             Tesla says it wants to hire veterans – a lot of them
+            </i>
+            <span class="accessdate">
+             [dostęp 2020-03-14]
+            </span>
+            <span class="Z3988" style="display:none" title="ctx_ver=Z39.88-2004&amp;rft.gengre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Tesla+says+it+wants+to+hire+veterans+%E2%80%93+a+lot+of+them">
+            </span>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            .
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-26">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-26">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://money.cnn.com/2017/02/01/technology/tesla-name-change/" rel="nofollow">
+             Tesla Motors Changes its name too... Tesla
+            </a>
+            <span class="lang-list">
+             (
+             <abbr title="Treść w języku angielskim (English)">
+              ang.
+             </abbr>
+             )
+            </span>
+            . [dostęp 2020-03-14].
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-27">
+          <span class="mw-cite-backlink">
+           <a href="#cite_ref-27">
+            ↑
+           </a>
+          </span>
+          <span class="reference-text">
+           <span class="citation">
+            <a class="external text" href="https://motoryzacja.interia.pl/wiadomosci/producenci/news-milion-samochodow-tesli,nId,4384859" rel="nofollow">
+             <i>
+              Milion samochodów Tesli! - Motoryzacja w INTERIA.PL
+             </i>
+            </a>
+            , motoryzacja.interia.pl
+            <span class="accessdate">
+             [dostęp 2020-03-19]
+            </span>
+            <span class="Z3988" style="display:none" title="ctx_ver=Z39.88-2004&amp;rft.gengre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Milion+samochod%C3%B3w+Tesli%21+-+Motoryzacja+w+INTERIA.PL&amp;rft_id=https%3A%2F%2Fmotoryzacja.interia.pl%2Fwiadomosci%2Fproducenci%2Fnews-milion-samochodow-tesli%2CnId%2C4384859">
+            </span>
+            <span class="lang-list tylko-pl">
+             (
+             <abbr title="Treść w języku polskim">
+              pol.
+             </abbr>
+             )
+            </span>
+            .
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span id="Linki_zewn.C4.99trzne">
+       </span>
+       <span class="mw-headline" id="Linki_zewnętrzne">
+        Linki zewnętrzne
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a class="mw-editsection-visualeditor" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit&amp;section=17" title="Edytuj sekcję: Linki zewnętrzne">
+         edytuj
+        </a>
+        <span class="mw-editsection-divider">
+         |
+        </span>
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=edit&amp;section=17" title="Edytuj sekcję: Linki zewnętrzne">
+         edytuj kod
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        <a class="external text" href="https://www.tesla.com/" rel="nofollow">
+         Oficjalna strona internetowa Tesla, Inc.
+        </a>
+        <span class="lang-list">
+         (
+         <abbr title="Treść w języku angielskim (English)">
+          ang.
+         </abbr>
+         )
+        </span>
+       </li>
+      </ul>
+      <table class="navbox v2 do-not-make-smaller navbox-name-nASDAQ-100">
+       <tbody>
+        <tr>
+         <td>
+          <table class="nowraplinks collapsible collapsed navbox-inner">
+           <tbody>
+            <tr>
+             <th class="navbox-title" colspan="2">
+              <div class="navbox-tnavbar noprint">
+               <div class="noprint plainlinks" style="background-color:transparent; padding:0; font-weight:normal; font-size:xx-small; white-space:nowrap;">
+                <a href="/wiki/Szablon:NASDAQ-100" title="Szablon:NASDAQ-100">
+                 <span title="Pokaż ten szablon">
+                  p
+                 </span>
+                </a>
+                <span style="font-size:80%;">
+                 •
+                </span>
+                <a class="new" href="/w/index.php?title=Dyskusja_szablonu:NASDAQ-100&amp;action=edit&amp;redlink=1" title="Dyskusja szablonu:NASDAQ-100 (strona nie istnieje)">
+                 <span style="" title="Dyskusja na temat tego szablonu">
+                  d
+                 </span>
+                </a>
+                <span style="font-size:80%;">
+                 •
+                </span>
+                <a class="external text" href="https://pl.wikipedia.org/w/index.php?title=Szablon:NASDAQ-100&amp;action=edit">
+                 <span style="" title="Możesz edytować ten szablon. Użyj przycisku podglądu przed zapisaniem zmian.">
+                  e
+                 </span>
+                </a>
+               </div>
+              </div>
+              <span class="tytuł">
+               Spółki notowane w indeksie
+               <a href="/wiki/NASDAQ" title="NASDAQ">
+                NASDAQ-100
+               </a>
+               <small>
+                (stan na 24 kwietnia 2015)
+               </small>
+              </span>
+             </th>
+            </tr>
+            <tr>
+             <td class="navbox-list spis1 hlist navbox-odd">
+              <ul>
+               <li>
+                <a href="/wiki/21st_Century_Fox" title="21st Century Fox">
+                 21st Century Fox
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Activision_Blizzard" title="Activision Blizzard">
+                 Activision Blizzard
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Adobe_Inc." title="Adobe Inc.">
+                 Adobe
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Akamai" title="Akamai">
+                 Akamai
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Alexion_Pharmaceuticals&amp;action=edit&amp;redlink=1" title="Alexion Pharmaceuticals (strona nie istnieje)">
+                 Alexion Pharmaceuticals
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Altera" title="Altera">
+                 Altera
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Amazon.com" title="Amazon.com">
+                 Amazon.com
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=American_Airlines_Group&amp;action=edit&amp;redlink=1" title="American Airlines Group (strona nie istnieje)">
+                 American Airlines Group
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Amgen" title="Amgen">
+                 Amgen
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Analog_Devices" title="Analog Devices">
+                 Analog Devices
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Apple_Inc." title="Apple Inc.">
+                 Apple
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Applied_Materials&amp;action=edit&amp;redlink=1" title="Applied Materials (strona nie istnieje)">
+                 Applied Materials
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Autodesk" title="Autodesk">
+                 Autodesk
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Automatic_Data_Processing&amp;action=edit&amp;redlink=1" title="Automatic Data Processing (strona nie istnieje)">
+                 ADP
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Avago_Technologies&amp;action=edit&amp;redlink=1" title="Avago Technologies (strona nie istnieje)">
+                 Avago
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Baidu" title="Baidu">
+                 Baidu
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Bed_Bath_%26_Beyond" title="Bed Bath &amp; Beyond">
+                 Bed Bath &amp; Beyond
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Biogen_Idec&amp;action=edit&amp;redlink=1" title="Biogen Idec (strona nie istnieje)">
+                 Biogen Idec
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Broadcom" title="Broadcom">
+                 Broadcom
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=C._H._Robinson_Worldwide&amp;action=edit&amp;redlink=1" title="C. H. Robinson Worldwide (strona nie istnieje)">
+                 C.H. Robinson
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Catamaran_Corporation&amp;action=edit&amp;redlink=1" title="Catamaran Corporation (strona nie istnieje)">
+                 Catamaran
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/CA_Technologies" title="CA Technologies">
+                 CA Technologies
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Celgene&amp;action=edit&amp;redlink=1" title="Celgene (strona nie istnieje)">
+                 Celgene
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Cerner&amp;action=edit&amp;redlink=1" title="Cerner (strona nie istnieje)">
+                 Cerner
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Charter_Communications&amp;action=edit&amp;redlink=1" title="Charter Communications (strona nie istnieje)">
+                 Charter Communications
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Check_Point" title="Check Point">
+                 Check Point
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Cisco_Systems" title="Cisco Systems">
+                 Cisco
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Citrix_Systems" title="Citrix Systems">
+                 Citrix
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Cognizant_Technology_Solutions&amp;action=edit&amp;redlink=1" title="Cognizant Technology Solutions (strona nie istnieje)">
+                 Cognizant
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Comcast" title="Comcast">
+                 Comcast
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Costco" title="Costco">
+                 Costco
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Dish_Network" title="Dish Network">
+                 Dish
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/DirecTV" title="DirecTV">
+                 DirecTV
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Discovery_(nadawca)" title="Discovery (nadawca)">
+                 Discovery
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Dollar_Tree" title="Dollar Tree">
+                 Dollar Tree
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/EBay" title="EBay">
+                 eBay
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Electronic_Arts" title="Electronic Arts">
+                 Electronic Arts
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Expeditors_International" title="Expeditors International">
+                 Expeditors International
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Express_Scripts" title="Express Scripts">
+                 Express Scripts
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Facebook" title="Facebook">
+                 Facebook
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Fastenal" title="Fastenal">
+                 Fastenal
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Fiserv" title="Fiserv">
+                 Fiserv
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Garmin" title="Garmin">
+                 Garmin
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Gilead_Sciences" title="Gilead Sciences">
+                 Gilead Sciences
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Google" title="Google">
+                 Google
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Henry_Schein" title="Henry Schein">
+                 Henry Schein
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Illumina" title="Illumina">
+                 Illumina
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Intel" title="Intel">
+                 Intel
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Intuit" title="Intuit">
+                 Intuit
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Intuitive_Surgical" title="Intuitive Surgical">
+                 Intuitive Surgical
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Keurig_Green_Mountain&amp;action=edit&amp;redlink=1" title="Keurig Green Mountain (strona nie istnieje)">
+                 Keurig Green Mountain
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=KLA_Tencor&amp;action=edit&amp;redlink=1" title="KLA Tencor (strona nie istnieje)">
+                 KLA Tencor
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Kraft_Foods_Group" title="Kraft Foods Group">
+                 Kraf Foods
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Lam_Research&amp;action=edit&amp;redlink=1" title="Lam Research (strona nie istnieje)">
+                 Lam Research
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Liberty_Global" title="Liberty Global">
+                 Liberty Global
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Liberty_Interactive&amp;action=edit&amp;redlink=1" title="Liberty Interactive (strona nie istnieje)">
+                 Liberty Interactive
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Liberty_Media&amp;action=edit&amp;redlink=1" title="Liberty Media (strona nie istnieje)">
+                 Liberty Media
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Linear_Technology&amp;action=edit&amp;redlink=1" title="Linear Technology (strona nie istnieje)">
+                 Linear Technology
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Marriott_International" title="Marriott International">
+                 Marriott
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mattel" title="Mattel">
+                 Mattel
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Micron_Technology&amp;action=edit&amp;redlink=1" title="Micron Technology (strona nie istnieje)">
+                 Micron Technology
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Microsoft" title="Microsoft">
+                 Microsoft
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Mondel%C4%93z_International" title="Mondelēz International">
+                 Mondelēz
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Monster_Beverage" title="Monster Beverage">
+                 Monster
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Mylan&amp;action=edit&amp;redlink=1" title="Mylan (strona nie istnieje)">
+                 Mylan
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/NetApp" title="NetApp">
+                 NetApp
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Netflix" title="Netflix">
+                 Netflix
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Nvidia" title="Nvidia">
+                 Nvidia
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/NXP_Semiconductors" title="NXP Semiconductors">
+                 NXP
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=O%27Reilly_Automotive&amp;action=edit&amp;redlink=1" title="O'Reilly Automotive (strona nie istnieje)">
+                 O'Reilly Automotive
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Paccar" title="Paccar">
+                 Paccar
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Paychex&amp;action=edit&amp;redlink=1" title="Paychex (strona nie istnieje)">
+                 Paychex
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Qualcomm" title="Qualcomm">
+                 Qualcomm
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Regeneron&amp;action=edit&amp;redlink=1" title="Regeneron (strona nie istnieje)">
+                 Regeneron
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Ross_Stores" title="Ross Stores">
+                 Ross Stores
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/SanDisk" title="SanDisk">
+                 SanDisk
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=SBA_Communications&amp;action=edit&amp;redlink=1" title="SBA Communications (strona nie istnieje)">
+                 SBA Communications
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Seagate_Technology" title="Seagate Technology">
+                 Seagate
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Sigma-Aldrich&amp;action=edit&amp;redlink=1" title="Sigma-Aldrich (strona nie istnieje)">
+                 Sigma-Aldrich
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Sirius_XM_Holdings&amp;action=edit&amp;redlink=1" title="Sirius XM Holdings (strona nie istnieje)">
+                 Sirius XM
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Staples_Inc.&amp;action=edit&amp;redlink=1" title="Staples Inc. (strona nie istnieje)">
+                 Staples
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Starbucks" title="Starbucks">
+                 Starbucks
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Stericycle&amp;action=edit&amp;redlink=1" title="Stericycle (strona nie istnieje)">
+                 Stericycle
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/NortonLifeLock" title="NortonLifeLock">
+                 NortonLifeLock
+                </a>
+               </li>
+               <li>
+                <a class="mw-selflink selflink">
+                 Tesla
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Texas_Instruments" title="Texas Instruments">
+                 Texas Instruments
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=The_Priceline_Group&amp;action=edit&amp;redlink=1" title="The Priceline Group (strona nie istnieje)">
+                 The Priceline Group
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Tractor_Supply_Company&amp;action=edit&amp;redlink=1" title="Tractor Supply Company (strona nie istnieje)">
+                 Tractor Supply Company
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/TripAdvisor" title="TripAdvisor">
+                 TripAdvisor
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Verisk_Analytics&amp;action=edit&amp;redlink=1" title="Verisk Analytics (strona nie istnieje)">
+                 Verisk
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Vertex_Pharmaceuticals&amp;action=edit&amp;redlink=1" title="Vertex Pharmaceuticals (strona nie istnieje)">
+                 Vertex Pharmaceuticals
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/ViacomCBS" title="ViacomCBS">
+                 ViacomCBS
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=VimpelCom&amp;action=edit&amp;redlink=1" title="VimpelCom (strona nie istnieje)">
+                 VimpelCom
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Vodafone" title="Vodafone">
+                 Vodafone
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit&amp;redlink=1" title="Walgreens Boots Alliance (strona nie istnieje)">
+                 Walgreens Boots Alliance
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Western_Digital" title="Western Digital">
+                 Western Digital
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Whole_Foods_Market&amp;action=edit&amp;redlink=1" title="Whole Foods Market (strona nie istnieje)">
+                 Whole Foods Market
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=Wynn_Resorts&amp;action=edit&amp;redlink=1" title="Wynn Resorts (strona nie istnieje)">
+                 Wynn Resorts
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Xilinx" title="Xilinx">
+                 Xilinx
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/Yahoo!" title="Yahoo!">
+                 Yahoo!
+                </a>
+               </li>
+              </ul>
+             </td>
+             <td class="navbox-grafika" rowspan="1">
+              <a class="image" href="/wiki/Plik:NASDAQ_Logo.svg">
+               <img alt="NASDAQ Logo.svg" data-file-height="44" data-file-width="155" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/NASDAQ_Logo.svg/60px-NASDAQ_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/NASDAQ_Logo.svg/90px-NASDAQ_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/NASDAQ_Logo.svg/120px-NASDAQ_Logo.svg.png 2x" width="60"/>
+              </a>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class="catlinks normdaten-typ-k" id="normdaten">
+       <a href="/wiki/Pomoc:Kontrola_autorytatywna" title="Pomoc:Kontrola autorytatywna">
+        Kontrola autorytatywna
+       </a>
+       (producent samochodów):
+       <ul>
+        <li>
+         <a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">
+          ISNI
+         </a>
+         :
+         <span class="uid">
+          <a class="external text" href="http://isni-url.oclc.nl/isni/0000000449079987" rel="nofollow">
+           0000 0004 4907 9987
+          </a>
+         </span>
+        </li>
+        <li>
+         <a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">
+          VIAF
+         </a>
+         :
+         <span class="uid">
+          <a class="external text" href="http://viaf.org/viaf/128492563" rel="nofollow">
+           128492563
+          </a>
+         </span>
+        </li>
+        <li>
+         <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">
+          LCCN
+         </a>
+         :
+         <span class="uid">
+          <a class="external text" href="http://lccn.loc.gov/n2014027514" rel="nofollow">
+           n2014027514
+          </a>
+         </span>
+        </li>
+        <li>
+         <a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">
+          GND
+         </a>
+         :
+         <span class="uid">
+          <a class="external text" href="http://d-nb.info/gnd/111610105X" rel="nofollow">
+           111610105X
+          </a>
+         </span>
+        </li>
+        <li>
+         <a href="/wiki/Biblioteka_Narodowa_Republiki_Czeskiej" title="Biblioteka Narodowa Republiki Czeskiej">
+          NKC
+         </a>
+         :
+         <span class="uid">
+          <a class="external text" href="http://aut.nkp.cz/kv20191038193" rel="nofollow">
+           kv20191038193
+          </a>
+         </span>
+        </li>
+        <li>
+         <a href="/wiki/WorldCat" title="WorldCat">
+          WorldCat
+         </a>
+         :
+         <span class="uid">
+          <a class="external text" href="http://www.worldcat.org/identities/lccn-n2014027514" rel="nofollow">
+           lccn-n2014027514
+          </a>
+         </span>
+        </li>
+       </ul>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1350
+Cached time: 20200817164450
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.644 seconds
+Real time usage: 0.847 seconds
+Preprocessor visited node count: 8422/1000000
+Post‐expand include size: 84054/2097152 bytes
+Template argument size: 19386/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 18625/5000000 bytes
+Lua time usage: 0.304/10.000 seconds
+Lua memory usage: 4.18 MB/50 MB
+Number of Wikibase entities loaded: 1/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  731.024      1 -total
+ 43.44%  317.586      1 Szablon:Przypisy
+ 34.01%  248.631     23 Szablon:Cytuj_stronę
+ 28.94%  211.531      1 Szablon:Przedsiębiorstwo_infobox
+ 14.61%  106.801      1 Szablon:Kontrola_autorytatywna
+  9.48%   69.292      1 Szablon:Infobox_mapa_lokalizacyjna
+  8.42%   61.518     47 Szablon:Lang
+  8.26%   60.348      1 Szablon:Infobox_państwo_nie_iso
+  7.79%   56.962      1 Szablon:NASDAQ-100
+  7.47%   54.634      1 Szablon:Infobox_państwo
+-->
+      <!-- Saved in parser cache with key plwiki:stable-pcache:idhash:637186-0!canonical and timestamp 20200817164450 and revision id 60050790
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//pl.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Źródło: „
+      <a dir="ltr" href="https://pl.wikipedia.org/w/index.php?title=Tesla,_Inc.&amp;oldid=60050790">
+       https://pl.wikipedia.org/w/index.php?title=Tesla,_Inc.&amp;oldid=60050790
+      </a>
+      ”
+     </div>
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Specjalna:Kategorie" title="Specjalna:Kategorie">
+       Kategorie
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Kategoria:Tesla_Motors" title="Kategoria:Tesla Motors">
+         Tesla Motors
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Kategoria:Ameryka%C5%84scy_producenci_samochod%C3%B3w" title="Kategoria:Amerykańscy producenci samochodów">
+         Amerykańscy producenci samochodów
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Kategoria:Marki_samochod%C3%B3w" title="Kategoria:Marki samochodów">
+         Marki samochodów
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Kategoria:Ameryka%C5%84scy_producenci_samochod%C3%B3w_elektrycznych" title="Kategoria:Amerykańscy producenci samochodów elektrycznych">
+         Amerykańscy producenci samochodów elektrycznych
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Kategoria:Producenci_samochod%C3%B3w_elektrycznych" title="Kategoria:Producenci samochodów elektrycznych">
+         Producenci samochodów elektrycznych
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Kategoria:Sp%C3%B3%C5%82ki_notowane_na_NASDAQ" title="Kategoria:Spółki notowane na NASDAQ">
+         Spółki notowane na NASDAQ
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Kategoria:Przedsi%C4%99biorstwa_z_siedzib%C4%85_w_Palo_Alto_(Kalifornia)" title="Kategoria:Przedsiębiorstwa z siedzibą w Palo Alto (Kalifornia)">
+         Przedsiębiorstwa z siedzibą w Palo Alto (Kalifornia)
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Ukryta kategoria:
+      <ul>
+       <li>
+        <a href="/wiki/Kategoria:Szablon_cytuj_stron%C4%99_%E2%80%93_autorzy_do_sprawdzenia" title="Kategoria:Szablon cytuj stronę – autorzy do sprawdzenia">
+         Szablon cytuj stronę – autorzy do sprawdzenia
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Menu nawigacyjne
+   </h2>
+   <div id="mw-head">
+    <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+    <nav aria-labelledby="p-personal-label" class="vector-menu" id="p-personal" role="navigation">
+     <h3 id="p-personal-label">
+      <span>
+       Narzędzia osobiste
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">
+        Nie jesteś zalogowany
+       </li>
+       <li id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Specjalna:Moja_dyskusja" title="Dyskusja użytkownika dla tego adresu IP [n]">
+         Dyskusja
+        </a>
+       </li>
+       <li id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Specjalna:M%C3%B3j_wk%C5%82ad" title="Lista edycji wykonanych z tego adresu IP [y]">
+         Edycje
+        </a>
+       </li>
+       <li id="pt-createaccount">
+        <a href="/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&amp;returnto=Tesla%2C+Inc." title="Zachęcamy do stworzenia konta i zalogowania, ale nie jest to obowiązkowe.">
+         Utwórz konto
+        </a>
+       </li>
+       <li id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Tesla%2C+Inc." title="Zachęcamy do zalogowania się, choć nie jest to obowiązkowe. [o]">
+         Zaloguj się
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+     <nav aria-labelledby="p-namespaces-label" class="vector-menu vector-menu-tabs vectorTabs" id="p-namespaces" role="navigation">
+      <h3 id="p-namespaces-label">
+       <span>
+        Przestrzenie nazw
+       </span>
+      </h3>
+      <!-- Please do not use the .body class, it is deprecated. -->
+      <div class="body vector-menu-content">
+       <!-- Please do not use the .menu class, it is deprecated. -->
+       <ul class="vector-menu-content-list">
+        <li class="selected" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/Tesla,_Inc." title="Zobacz stronę treści [c]">
+          Artykuł
+         </a>
+        </li>
+        <li id="ca-talk">
+         <a accesskey="t" href="/wiki/Dyskusja:Tesla,_Inc." rel="discussion" title="Dyskusja o zawartości tej strony [t]">
+          Dyskusja
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+     <nav aria-labelledby="p-variants-label" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" id="p-variants" role="navigation">
+      <input aria-labelledby="p-variants-label" class="vector-menu-checkbox vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-variants-label">
+       <span>
+        Warianty
+       </span>
+      </h3>
+      <!-- Please do not use the .body class, it is deprecated. -->
+      <div class="body vector-menu-content">
+       <!-- Please do not use the .menu class, it is deprecated. -->
+       <ul class="menu vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+     <nav aria-labelledby="p-views-label" class="vector-menu vector-menu-tabs vectorTabs" id="p-views" role="navigation">
+      <h3 id="p-views-label">
+       <span>
+        Widok
+       </span>
+      </h3>
+      <!-- Please do not use the .body class, it is deprecated. -->
+      <div class="body vector-menu-content">
+       <!-- Please do not use the .menu class, it is deprecated. -->
+       <ul class="vector-menu-content-list">
+        <li class="selected" id="ca-view">
+         <a href="/wiki/Tesla,_Inc.">
+          Czytaj
+         </a>
+        </li>
+        <li id="ca-ve-edit">
+         <a accesskey="v" href="/w/index.php?title=Tesla,_Inc.&amp;veaction=edit" title="Edytuj tę stronę [v]">
+          Edytuj
+         </a>
+        </li>
+        <li class="collapsible" id="ca-edit">
+         <a accesskey="e" href="/w/index.php?title=Tesla,_Inc.&amp;action=edit" title="Edytuj tę stronę [e]">
+          Edytuj kod źródłowy
+         </a>
+        </li>
+        <li id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Tesla,_Inc.&amp;action=history" title="Starsze wersje tej strony. [h]">
+          Historia i autorzy
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+     <nav aria-labelledby="p-cactions-label" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" id="p-cactions" role="navigation">
+      <input aria-labelledby="p-cactions-label" class="vector-menu-checkbox vectorMenuCheckbox" type="checkbox"/>
+      <h3 id="p-cactions-label">
+       <span>
+        Więcej
+       </span>
+      </h3>
+      <!-- Please do not use the .body class, it is deprecated. -->
+      <div class="body vector-menu-content">
+       <!-- Please do not use the .menu class, it is deprecated. -->
+       <ul class="menu vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div id="p-search" role="search">
+      <h3>
+       <label for="searchInput">
+        Szukaj
+       </label>
+      </h3>
+      <form action="/w/index.php" id="searchform">
+       <div id="simpleSearch">
+        <input accesskey="f" id="searchInput" name="search" placeholder="Przeszukaj Wikipedię" title="Przeszukaj Wikipedię [f]" type="search"/>
+        <input name="title" type="hidden" value="Specjalna:Szukaj"/>
+        <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Szukaj wprowadzonego tekstu w treści stron" type="submit" value="Szukaj">
+         <input class="searchButton" id="searchButton" name="go" title="Przejdź do strony o dokładnie takim tytule, o ile istnieje" type="submit" value="Przejdź"/>
+        </input>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Strona główna">
+     </a>
+    </div>
+    <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+    <nav aria-labelledby="p-navigation-label" class="vector-menu vector-menu-portal portal portal-first" id="p-navigation" role="navigation">
+     <h3 id="p-navigation-label">
+      <span>
+       Nawigacja
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Przejdź na stronę główną [z]">
+         Strona główna
+        </a>
+       </li>
+       <li id="n-randompage">
+        <a accesskey="x" href="/wiki/Specjalna:Losowa_strona" title="Załaduj losową stronę [x]">
+         Losuj artykuł
+        </a>
+       </li>
+       <li id="n-Kategorie">
+        <a href="/wiki/Portal:Kategorie_G%C5%82%C3%B3wne">
+         Kategorie artykułów
+        </a>
+       </li>
+       <li id="n-Featured-articles">
+        <a href="/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii">
+         Najlepsze artykuły
+        </a>
+       </li>
+       <li id="n-FAQ">
+        <a href="/wiki/Pomoc:FAQ">
+         Częste pytania (FAQ)
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+    <nav aria-labelledby="p-zmiany-label" class="vector-menu vector-menu-portal portal" id="p-zmiany" role="navigation">
+     <h3 id="p-zmiany-label">
+      <span>
+       Dla czytelników
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li id="n-czytelnicy">
+        <a href="/wiki/Wikipedia:O_Wikipedii">
+         O Wikipedii
+        </a>
+       </li>
+       <li id="n-bug_in_article">
+        <a href="/wiki/Wikipedia:Zg%C5%82o%C5%9B_b%C5%82%C4%85d_w_artykule">
+         Zgłoś błąd
+        </a>
+       </li>
+       <li id="n-bad-image">
+        <a href="/wiki/Wikipedia:Zg%C5%82oszone_grafiki">
+         Zgłoś błąd w pliku
+        </a>
+       </li>
+       <li id="n-contact">
+        <a href="/wiki/Wikipedia:Kontakt_z_wikipedystami">
+         Kontakt
+        </a>
+       </li>
+       <li id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_pl.wikipedia.org&amp;uselang=pl" title="Pomóż nam">
+         Wspomóż Wikipedię
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+    <nav aria-labelledby="p-edytorzy-label" class="vector-menu vector-menu-portal portal" id="p-edytorzy" role="navigation">
+     <h3 id="p-edytorzy-label">
+      <span>
+       Dla wikipedystów
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li id="n-pierwsze-kroki">
+        <a href="/wiki/Pomoc:Pierwsze_kroki">
+         Pierwsze kroki
+        </a>
+       </li>
+       <li id="n-portal">
+        <a href="/wiki/Wikipedia:Portal_wikipedyst%C3%B3w" title="O projekcie – co możesz zrobić, gdzie możesz znaleźć informacje">
+         Portal wikipedystów
+        </a>
+       </li>
+       <li id="n-Noticeboard">
+        <a href="/wiki/Wikipedia:Tablica_og%C5%82osze%C5%84">
+         Ogłoszenia
+        </a>
+       </li>
+       <li id="n-Guidelines">
+        <a href="/wiki/Wikipedia:Zasady">
+         Zasady
+        </a>
+       </li>
+       <li id="n-helppage-name">
+        <a href="/wiki/Pomoc:Spis_tre%C5%9Bci">
+         Pomoc
+        </a>
+       </li>
+       <li id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Specjalna:Ostatnie_zmiany" title="Lista ostatnich zmian w Wikipedii. [r]">
+         Ostatnie zmiany
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+    <nav aria-labelledby="p-tb-label" class="vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 id="p-tb-label">
+      <span>
+       Narzędzia
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Specjalna:Linkuj%C4%85ce/Tesla,_Inc." title="Pokaż listę wszystkich stron linkujących do tej strony [j]">
+         Linkujące
+        </a>
+       </li>
+       <li id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Specjalna:Zmiany_w_linkowanych/Tesla,_Inc." rel="nofollow" title="Ostatnie zmiany w stronach, do których ta strona linkuje [k]">
+         Zmiany w linkowanych
+        </a>
+       </li>
+       <li id="t-upload">
+        <a accesskey="u" href="//pl.wikipedia.org/wiki/Wikipedia:Prześlij_plik" title="Prześlij pliki [u]">
+         Prześlij plik
+        </a>
+       </li>
+       <li id="t-specialpages">
+        <a accesskey="q" href="/wiki/Specjalna:Strony_specjalne" title="Lista wszystkich stron specjalnych [q]">
+         Strony specjalne
+        </a>
+       </li>
+       <li id="t-permalink">
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;oldid=60050790" title="Stały link do tej wersji strony">
+         Link do tej wersji
+        </a>
+       </li>
+       <li id="t-info">
+        <a href="/w/index.php?title=Tesla,_Inc.&amp;action=info" title="Więcej informacji na temat tej strony">
+         Informacje o tej stronie
+        </a>
+       </li>
+       <li id="t-cite">
+        <a href="/w/index.php?title=Specjalna:Cytuj&amp;page=Tesla%2C_Inc.&amp;id=60050790&amp;wpFormIdentifier=titleform" title="Informacja o tym jak należy cytować tę stronę">
+         Cytowanie tego artykułu
+        </a>
+       </li>
+       <li id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q478214" title="Link do powiązanego elementu w repozytorium danych [g]">
+         Element Wikidanych
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+    <nav aria-labelledby="p-coll-print_export-label" class="vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 id="p-coll-print_export-label">
+      <span>
+       Drukuj lub eksportuj
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book">
+        <a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=book_creator&amp;referer=Tesla%2C+Inc.">
+         Utwórz książkę
+        </a>
+       </li>
+       <li id="coll-download-as-rl">
+        <a href="/w/index.php?title=Specjalna:ElectronPdf&amp;page=Tesla%2C+Inc.&amp;action=show-download-screen">
+         Pobierz jako PDF
+        </a>
+       </li>
+       <li id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Tesla,_Inc.&amp;printable=yes" title="Wersja do wydruku [p]">
+         Wersja do druku
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 id="p-wikibase-otherprojects-label">
+      <span>
+       W innych projektach
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons">
+        <a href="https://commons.wikimedia.org/wiki/Category:Tesla_Inc." hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+    <nav aria-labelledby="p-lang-label" class="vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 id="p-lang-label">
+      <span>
+       W innych językach
+      </span>
+     </h3>
+     <!-- Please do not use the .body class, it is deprecated. -->
+     <div class="body vector-menu-content">
+      <!-- Please do not use the .menu class, it is deprecated. -->
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-af">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Tesla,_Inc." hreflang="af" lang="af" title="Tesla, Inc. – afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D8%B3%D9%84%D8%A7_%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B2" hreflang="ar" lang="ar" title="تيسلا موتورز – arabski">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Tesla,_Inc." hreflang="ast" lang="ast" title="Tesla, Inc. – asturyjski">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Tesla_Motors" hreflang="az" lang="az" title="Tesla Motors – azerbejdżański">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-azb">
+        <a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D8%AA%D8%B3%D9%84%D8%A7_%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B2" hreflang="azb" lang="azb" title="تسلا موتورز – South Azerbaijani">
+         تۆرکجه
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Tesla_(kong-si)" hreflang="nan" lang="nan" title="Tesla (kong-si) – Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ba">
+        <a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/%D0%A2%D0%B5%D1%81%D0%BB%D0%B0_%D0%BC%D0%BE%D1%82%D0%BE%D1%80%D1%81" hreflang="ba" lang="ba" title="Тесла моторс – baszkirski">
+         Башҡортса
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/Tesla_Inc." hreflang="be" lang="be" title="Tesla Inc. – białoruski">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old">
+        <a class="interlanguage-link-target" href="https://be-tarask.wikipedia.org/wiki/Tesla_Inc" hreflang="be-tarask" lang="be-tarask" title="Tesla Inc – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)‎
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A2%D0%B5%D1%81%D0%BB%D0%B0_(%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F)" hreflang="bg" lang="bg" title="Тесла (компания) – bułgarski">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bar">
+        <a class="interlanguage-link-target" href="https://bar.wikipedia.org/wiki/Tesla" hreflang="bar" lang="bar" title="Tesla – bawarski">
+         Boarisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Tesla,_Inc." hreflang="bs" lang="bs" title="Tesla, Inc. – bośniacki">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Tesla_Motors" hreflang="ca" lang="ca" title="Tesla Motors – kataloński">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Tesla_(automobilka)" hreflang="cs" lang="cs" title="Tesla (automobilka) – czeski">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Tesla_(cwmni_ceir)" hreflang="cy" lang="cy" title="Tesla (cwmni ceir) – walijski">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Tesla_Motors" hreflang="da" lang="da" title="Tesla Motors – duński">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Tesla,_Inc." hreflang="de" lang="de" title="Tesla, Inc. – niemiecki">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Tesla,_Inc." hreflang="et" lang="et" title="Tesla, Inc. – estoński">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/Tesla,_Inc." hreflang="el" lang="el" title="Tesla, Inc. – grecki">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Tesla,_Inc." hreflang="en" lang="en" title="Tesla, Inc. – angielski">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Tesla,_Inc." hreflang="es" lang="es" title="Tesla, Inc. – hiszpański">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Tesla,_Inc." hreflang="eo" lang="eo" title="Tesla, Inc. – esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Tesla_(enpresa)" hreflang="eu" lang="eu" title="Tesla (enpresa) – baskijski">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B3%D9%84%D8%A7_%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B2" hreflang="fa" lang="fa" title="تسلا موتورز – perski">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Tesla_(automobile)" hreflang="fr" lang="fr" title="Tesla (automobile) – francuski">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Tesla_Motors" hreflang="ga" lang="ga" title="Tesla Motors – irlandzki">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Tesla,_Inc." hreflang="gl" lang="gl" title="Tesla, Inc. – galicyjski">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%85%8C%EC%8A%AC%EB%9D%BC_(%EA%B8%B0%EC%97%85)" hreflang="ko" lang="ko" title="테슬라 (기업) – koreański">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/Tesla" hreflang="hy" lang="hy" title="Tesla – ormiański">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A4%BE_%E0%A4%AE%E0%A5%8B%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%B8" hreflang="hi" lang="hi" title="टेस्ला मोटर्स – hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Tesla_(tvrtka)" hreflang="hr" lang="hr" title="Tesla (tvrtka) – chorwacki">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Tesla,_Inc." hreflang="id" lang="id" title="Tesla, Inc. – indonezyjski">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Tesla_Inc" hreflang="is" lang="is" title="Tesla Inc – islandzki">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Tesla_(azienda)" hreflang="it" lang="it" title="Tesla (azienda) – włoski">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%98%D7%A1%D7%9C%D7%94_(%D7%97%D7%91%D7%A8%D7%94)" hreflang="he" lang="he" title="טסלה (חברה) – hebrajski">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/Tesla,_Inc." hreflang="ka" lang="ka" title="Tesla, Inc. – gruziński">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/Tesla_Motors" hreflang="kk" lang="kk" title="Tesla Motors – kazachski">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lo">
+        <a class="interlanguage-link-target" href="https://lo.wikipedia.org/wiki/%E0%BB%80%E0%BA%97%E0%BA%AA%E0%BA%B0%E0%BA%A5%E0%BA%B2_(%E0%BA%9A%E0%BB%8D%E0%BA%A5%E0%BA%B4%E0%BA%AA%E0%BA%B1%E0%BA%94)" hreflang="lo" lang="lo" title="ເທສະລາ (ບໍລິສັດ) – laotański">
+         ລາວ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Tesla_(uz%C5%86%C4%93mums)" hreflang="lv" lang="lv" title="Tesla (uzņēmums) – łotewski">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Tesla_Motors" hreflang="lt" lang="lt" title="Tesla Motors – litewski">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ln">
+        <a class="interlanguage-link-target" href="https://ln.wikipedia.org/wiki/Tesla" hreflang="ln" lang="ln" title="Tesla – lingala">
+         Lingála
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Tesla,_Inc." hreflang="hu" lang="hu" title="Tesla, Inc. – węgierski">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%9F%E0%B5%86%E0%B4%B8%E0%B5%8D%E2%80%8C%E0%B4%B2%E0%B4%BE_%E0%B4%AE%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8B%E0%B4%B4%E0%B5%8D%E2%80%8C%E0%B4%B8%E0%B5%8D" hreflang="ml" lang="ml" title="ടെസ്‌ലാ മോട്ടോഴ്‌സ് – malajalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%B8%E0%A4%B2%E0%A4%BE_%E0%A4%AE%E0%A5%8B%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%B8" hreflang="mr" lang="mr" title="टेसला मोटर्स – marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Tesla,_Inc." hreflang="ms" lang="ms" title="Tesla, Inc. – malajski">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Tesla,_Inc." hreflang="nl" lang="nl" title="Tesla, Inc. – niderlandzki">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ne">
+        <a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%9F%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%B2%E0%A4%BE_%E0%A4%AE%E0%A5%8B%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%B8" hreflang="ne" lang="ne" title="टेस्ला मोटर्स – nepalski">
+         नेपाली
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%B9%E3%83%A9_(%E4%BC%9A%E7%A4%BE)" hreflang="ja" lang="ja" title="テスラ (会社) – japoński">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-frr">
+        <a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/Tesla_Inc." hreflang="frr" lang="frr" title="Tesla Inc. – północnofryzyjski">
+         Nordfriisk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Tesla_(selskap)" hreflang="nb" lang="nb" title="Tesla (selskap) – norweski (bokmål)">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Tesla,_Inc." hreflang="oc" lang="oc" title="Tesla, Inc. – oksytański">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pms">
+        <a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Tesla_(Meison_vitur%C3%ACstica)" hreflang="pms" lang="pms" title="Tesla (Meison viturìstica) – piemoncki">
+         Piemontèis
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Tesla,_Inc." hreflang="pt" lang="pt" title="Tesla, Inc. – portugalski">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Tesla,_Inc." hreflang="ro" lang="ro" title="Tesla, Inc. – rumuński">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/Tesla" hreflang="ru" lang="ru" title="Tesla – rosyjski">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sah">
+        <a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/Tesla_Motors" hreflang="sah" lang="sah" title="Tesla Motors – jakucki">
+         Саха тыла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Tesla_Motors" hreflang="sco" lang="sco" title="Tesla Motors – scots">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Tesla,_Inc." hreflang="sq" lang="sq" title="Tesla, Inc. – albański">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Tesla,_Inc." hreflang="en-simple" lang="en-simple" title="Tesla, Inc. – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Tesla_(automobilka)" hreflang="sk" lang="sk" title="Tesla (automobilka) – słowacki">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Tesla_Motors" hreflang="sl" lang="sl" title="Tesla Motors – słoweński">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%AA%DB%8E%D8%B3%D9%84%D8%A7_%D9%85%DB%86%D8%AA%DB%86%D8%B1%D8%B2" hreflang="ckb" lang="ckb" title="تێسلا مۆتۆرز – sorani">
+         کوردی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A2%D0%B5%D1%81%D0%BB%D0%B0_(%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%98%D0%B0)" hreflang="sr" lang="sr" title="Тесла (компанија) – serbski">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Tesla_(yritys)" hreflang="fi" lang="fi" title="Tesla (yritys) – fiński">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Tesla_(f%C3%B6retag)" hreflang="sv" lang="sv" title="Tesla (företag) – szwedzki">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%9F%E0%AF%86%E0%AE%B8%E0%AF%8D%E0%AE%B2%E0%AE%BE_%E0%AE%AE%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%B8%E0%AF%8D" hreflang="ta" lang="ta" title="டெஸ்லா மோட்டார்ஸ் – tamilski">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/Tesla_Inc." hreflang="tt" lang="tt" title="Tesla Inc. – tatarski">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%97%E0%B8%AA%E0%B8%A5%E0%B8%B2_(%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97)" hreflang="th" lang="th" title="เทสลา (บริษัท) – tajski">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Tesla_(%C5%9Firket)" hreflang="tr" lang="tr" title="Tesla (şirket) – turecki">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Tesla_Inc." hreflang="uk" lang="uk" title="Tesla Inc. – ukraiński">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ug">
+        <a class="interlanguage-link-target" href="https://ug.wikipedia.org/wiki/%D8%AA%DB%90%D8%B3%D9%89%D9%84%D8%A7" hreflang="ug" lang="ug" title="تېسىلا – ujgurski">
+         ئۇيغۇرچە / Uyghurche
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Tesla,_Inc." hreflang="vi" lang="vi" title="Tesla, Inc. – wietnamski">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wuu">
+        <a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E7%89%B9%E6%96%AF%E6%8B%89_(%E5%85%AC%E5%8F%B8)" hreflang="wuu" lang="wuu" title="特斯拉 (公司) – wu">
+         吴语
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/Tesla%E5%85%AC%E5%8F%B8" hreflang="yue" lang="yue" title="Tesla公司 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bat-smg">
+        <a class="interlanguage-link-target" href="https://bat-smg.wikipedia.org/wiki/Tesla_Motors" hreflang="sgs" lang="sgs" title="Tesla Motors – Samogitian">
+         Žemaitėška
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%89%B9%E6%96%AF%E6%8B%89_(%E5%85%AC%E5%8F%B8)" hreflang="zh" lang="zh" title="特斯拉 (公司) – chiński">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q478214#sitelinks-wikipedia" title="Edytuj linki pomiędzy wersjami językowymi">
+         Edytuj linki
+        </a>
+       </span>
+      </div>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Tę stronę ostatnio edytowano 10 cze 2020, 22:20.
+    </li>
+    <li id="footer-info-copyright">
+     Tekst udostępniany na
+     <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">
+      licencji Creative Commons: uznanie autorstwa, na tych samych warunkach
+     </a>
+     , z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o
+     <a href="https://foundation.wikimedia.org/wiki/Warunki_korzystania">
+      warunkach korzystania
+     </a>
+     .
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Polityka prywatności
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:O_Wikipedii" title="Wikipedia:O Wikipedii">
+      O Wikipedii
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:Korzystasz_z_Wikipedii_tylko_na_w%C5%82asn%C4%85_odpowiedzialno%C5%9B%C4%87" title="Wikipedia:Korzystasz z Wikipedii tylko na własną odpowiedzialność">
+      Korzystasz z Wikipedii tylko na własną odpowiedzialność
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//pl.m.wikipedia.org/w/index.php?title=Tesla,_Inc.&amp;mobileaction=toggle_view_mobile">
+      Wersja mobilna
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Dla deweloperów
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/pl.wikipedia.org">
+      Statystyki
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Komunikat na temat ciasteczek
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+   <div style="clear: both;">
+   </div>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.644","walltime":"0.847","ppvisitednodes":{"value":8422,"limit":1000000},"postexpandincludesize":{"value":84054,"limit":2097152},"templateargumentsize":{"value":19386,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":18625,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  731.024      1 -total"," 43.44%  317.586      1 Szablon:Przypisy"," 34.01%  248.631     23 Szablon:Cytuj_stronę"," 28.94%  211.531      1 Szablon:Przedsiębiorstwo_infobox"," 14.61%  106.801      1 Szablon:Kontrola_autorytatywna","  9.48%   69.292      1 Szablon:Infobox_mapa_lokalizacyjna","  8.42%   61.518     47 Szablon:Lang","  8.26%   60.348      1 Szablon:Infobox_państwo_nie_iso","  7.79%   56.962      1 Szablon:NASDAQ-100","  7.47%   54.634      1 Szablon:Infobox_państwo"]},"scribunto":{"limitreport-timeusage":{"value":"0.304","limit":"10.000"},"limitreport-memusage":{"value":4387004,"limit":52428800},"limitreport-logs":"{{#invoke:Moduł:Mapa|Infobox}}\nwspółrzędne: 37°25′45.1″N 122°08′16.8″W\nargumenty = table#1 {\n  [\"category\"] = \"Przedsiębiorstwo infobox\",\n}\nmap = \"Kalifornia\"\nmap = \"USA\"\nmap = \"Kalifornia\"\nmap = \"USA\"\ncheckUri: txt = table#1 {\n  [\"e\"] = true,\n  [\"k\"] = \"url\",\n  [\"v\"] = \"https://www.dobreprogramy.pl/Kultowe-gry-z-Atari-pojawia-sie-w-Tesli.-Do-sterowania-posluzy-kierownica,News,89659.html\",\n}\ncheckUri: txt = table#1 {\n  [\"e\"] = true,\n  [\"k\"] = \"url\",\n  [\"v\"] = \"http://motoryzacja.interia.pl/wiadomosci/producenci/news-tesla-ujawnila-plan-rozwoju,nId,2514122\",\n}\ncheckUri: txt = table#1 {\n  [\"e\"] = true,\n  [\"k\"] = \"url\",\n  [\"v\"] = \"https://motoryzacja.interia.pl/wiadomosci/producenci/news-milion-samochodow-tesli,nId,4384859\",\n}\n"},"cachereport":{"origin":"mw1350","timestamp":"20200817164450","ttl":2592000,"transientcontent":false}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"Tesla, Inc.","url":"https:\/\/pl.wikipedia.org\/wiki\/Tesla,_Inc.","sameAs":"http:\/\/www.wikidata.org\/entity\/Q478214","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q478214","author":{"@type":"Organization","name":"Wsp\u00f3\u0142tw\u00f3rcy projekt\u00f3w Fundacji Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-09-13T08:19:09Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bd\/Tesla_Motors.svg","headline":"ameryka\u0144ski producent samochod\u00f3w"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":221,"wgHostname":"mw1274"});});
+  </script>
+ </body>
+</html>
