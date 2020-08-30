@@ -32,7 +32,7 @@ def my_decorator(fn):
                 print("Kurs Euro: ",
                       currency_as_dictionary['rates']['PLN'])  # zwraca ze słownika liczbę == kurs EUR/PLN
                 print("Data i godzina: ", date_time_now)
-                print(f"Czas wykonania zapytania: {execution_time.microseconds} μs")
+                print(f"Czas wykonania zapytania: {int(execution_time.microseconds / 1000)} ms")
                 # tworzę listę trzech elementów, która będzie dodana jako kolejny element do listy głównej
                 # 'list_of_results' - docelowo będze to kolejny rząd zapisany w pliku CSV
                 row_a = [currency_as_dictionary['rates']['PLN'], date_time_now, execution_time.microseconds]
