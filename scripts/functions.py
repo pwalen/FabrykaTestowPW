@@ -4,6 +4,8 @@ def function_new(name, language):
 
 function_new('Pawel', 'Python')
 
+print('\n=============================\n')
+
 
 def divide(divident, divisor):
     if (divisor == 0):
@@ -15,8 +17,11 @@ def divide(divident, divisor):
 print(divide(3, 0))
 print(divide(3, 4))
 
+print('\n=============================\n')
+
 
 # funkcje, których parametry mogą być opcjonalne
+
 def my_function(arg1, arg2='Alfa Romeo'):
     return f'{arg1}{arg2}'
 
@@ -27,6 +32,8 @@ print(my_function(('car ', 'fiat ')))
 
 cars = ['Suzuki', 'VW', 'Skoda', 'Volvo']
 print(my_function(arg1='car ', arg2=cars))
+
+print('\n=============================\n')
 
 # funkcja częściowa
 from functools import partial

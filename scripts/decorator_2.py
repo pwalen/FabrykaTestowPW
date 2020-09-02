@@ -1,36 +1,38 @@
-# dekoratory to sposób aby dodać coś do możliwości funkcji ale bez zmiany tej funkcji
-# jest to ważne przy złożonych projektach, gdzie ingerencje we wnętrze funkcji
-# mogą wprowadzić niepożądane rezultaty w innych miejscach kodu
+# zrobimy sobie funkcję którą udekorujemy
+# funkcja będzie zwracała wynik w określonych godzinach od godziny 6 rano do godziny dwudziestej drugiej
+
+from datetime import datetime
+
+def say_hello():
+    print('hello my friend')
+
+def say_goodbye():
+    print('say goodbye')
+
+def run1(function):
+    def wrapper():
+        if 6 <= datetime.now().hour < 22:
+            function()
+        else:
+            pass
+    return wrapper()
 
 
-# def regular_function():
-#     print('this is a regular function')
-#
-#
-# def decor(function):
-#     def inside():
-#         print('decorate function')
-#         return function()
-#     return inside
-#
-#
-# new_function = decor(regular_function)
-# new_function()
-#
-# print('\n==============\n')
+def run2(function):
+    def wrapper():
+        if 1 <= datetime.now().hour < 6:
+            function()
+        else:
+            pass
+    return wrapper()
 
-# * prostszy sposób *
+run1(say_hello)
 
-def dekor(function):
-    def inside():
-        print('decorate function')
-        return function()
-    return inside
+run2(say_goodbye)
 
-@dekor
-def regular_function():
-    print('this is a regular function')
 
-regular_function()
+
+
+
 
 
