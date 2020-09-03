@@ -4,6 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
+from time import sleep
 
 driver = webdriver.Chrome('/Users/pawelwalenda/PycharmProjects/FabrykaTestowPW/chromedriver')
 driver.get('https://www.youtube.com/')
@@ -20,3 +21,7 @@ WebDriverWait(driver, 10).until(
 # ! We will close it by clicking the “I AGREE” button.
 WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.TAG_NAME,
                                                             '#introAgreeButton'))).click()
+
+sleep(5)
+
+driver.quit()
