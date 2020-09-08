@@ -1,0 +1,330 @@
+{
+	"info": {
+		"_postman_id": "1cd209c1-6c81-46bf-9dd5-796236e569a0",
+		"name": "Praca Domowa PW",
+		"description": "### Praca domowa do Modułu 8 /\"Automatyzujemy REST API\"/\n\n\"Zaprojektuj i wykonaj testy automatyczne endpointów **/posts** oraz **/comments** w aplikacji Postman i udostępnij mi swoją kolekcję:\nPamiętaj, że występować tam może więcej niż jedna metoda.\nPamiętaj też, żeby te testy można byto traktować jak testy akceptacyjne - po ich uruchomieniu chcę mieć pewność, że API działa zgodnie z założeniami - w astach zrób asercje na czas odpowiedzi, kod statusu odpowiedzi oraz na to co wraca nam API w body.\nKolekcję umieść w folderze z pracami domowymi w Twoim repozytorium na github.\"\n",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "test_posts_get",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "d0e0c31f-5af0-4f0e-a75d-8a11f331cb2a",
+						"exec": [
+							"console.log(\"== TEST_POSTS_GET ==\")",
+							"",
+							"// Sprawdzamy, czy żądanie przeglądarki zostało pomyślnie odebrane, zrozumiane, a następnie przetworzone przez serwer",
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"// Sprawdzamy, czas odpowiedzi ",
+							"pm.test(\"Response time is less than 150ms\", function () {",
+							"    pm.expect(pm.response.responseTime).to.be.below(150);",
+							"});",
+							"",
+							"// Sprawdzamy, czy 'body' zawiera słowo 'dolorem'",
+							"pm.test(\"Body matches string\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"dolorem\");",
+							"});",
+							"",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/{{posts}}",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"{{posts}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "test_comments_get",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "d0e0c31f-5af0-4f0e-a75d-8a11f331cb2a",
+						"exec": [
+							"console.log(\"== TEST_COMMENTS_GET ==\")",
+							"",
+							"// Sprawdzamy, czy żądanie przeglądarki zostało pomyślnie odebrane, zrozumiane, a następnie przetworzone przez serwer",
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"// Sprawdzamy, czas odpowiedzi ",
+							"pm.test(\"Response time is less than 150ms\", function () {",
+							"    pm.expect(pm.response.responseTime).to.be.below(150);",
+							"});",
+							"",
+							"// Sprawdzamy, czy 'body' zawiera znak '@'",
+							"pm.test(\"Body matches string\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"@\");",
+							"});",
+							"",
+							"",
+							" "
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/{{comments}}",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"{{comments}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "test_posts_post",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "d0e0c31f-5af0-4f0e-a75d-8a11f331cb2a",
+						"exec": [
+							"console.log(\"== TEST_POSTS_POST ==\")",
+							"",
+							"// Sprawdzamy, czy wysłany dokument został zapisany na serwerze",
+							"pm.test(\"Status code is 201\", function () {",
+							"    pm.response.to.have.status(201);",
+							"});",
+							"",
+							"// Sprawdzamy, czas odpowiedzi ",
+							"pm.test(\"Response time is less than 360ms\", function () {",
+							"    pm.expect(pm.response.responseTime).to.be.below(360);",
+							"});",
+							"",
+							"",
+							"",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[    \n    {\n        \"userId\": 5,\n        \"id\": 999,\n        \"title\": \"ULALA\",\n        \"body\": \"LALALA TATATA\"\n    }\n]",
+					"options": {
+						"raw": {}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/{{posts}}",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"{{posts}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "test_comments_post",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "d0e0c31f-5af0-4f0e-a75d-8a11f331cb2a",
+						"exec": [
+							"console.log(\"== TEST_COMMENTS_POST ==\")",
+							"",
+							"// Sprawdzamy, czy wysłany dokument został zapisany na serwerze",
+							"pm.test(\"Status code is 201\", function () {",
+							"    pm.response.to.have.status(201);",
+							"});",
+							"",
+							"// Sprawdzamy, czas odpowiedzi ",
+							"pm.test(\"Response time is less than 360ms\", function () {",
+							"    pm.expect(pm.response.responseTime).to.be.below(360);",
+							"});",
+							"",
+							"",
+							" "
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[]\n    {\n        \"postId\": 199,\n        \"id\": 999,\n        \"name\": \"ULALALALA\",\n        \"email\": \"jjjjer@testetgfget.com\",\n        \"body\": \"TARTARUGA LALA\"\n    }\n]",
+					"options": {
+						"raw": {}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/{{comments}}",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"{{comments}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "test_posts_delete",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "d0e0c31f-5af0-4f0e-a75d-8a11f331cb2a",
+						"exec": [
+							"console.log(\"== TEST_POSTS_DEL ==\")",
+							"",
+							"// Sprawdzamy, czy wysłany dokument o \"id\": 1 został usunięty",
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"// Sprawdzamy, czas odpowiedzi ",
+							"pm.test(\"Response time is less than 400ms\", function () {",
+							"    pm.expect(pm.response.responseTime).to.be.below(400);",
+							"});",
+							"",
+							"",
+							"",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/{{posts}}/1",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"{{posts}}",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "test_comments_delete",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "d0e0c31f-5af0-4f0e-a75d-8a11f331cb2a",
+						"exec": [
+							"console.log(\"== TEST_COMMENTS_DEL ==\")",
+							"",
+							"// Sprawdzamy, czy wysłany dokument o \"id\": 1 został usunięty",
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"// Sprawdzamy, czas odpowiedzi ",
+							"pm.test(\"Response time is less than 400ms\", function () {",
+							"    pm.expect(pm.response.responseTime).to.be.below(400);",
+							"});",
+							"",
+							"",
+							"",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/{{comments}}/1",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"{{comments}}",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "2b2a7e31-21a0-4d19-9ccf-d54d63fa4ccf",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "0dd8a2f1-eb22-4111-825d-5d76ab60c7ff",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"id": "16a09b9c-a94c-4abd-aa23-5660ce5945a2",
+			"key": "url",
+			"value": "https://jsonplaceholder.typicode.com"
+		},
+		{
+			"id": "49bfa41d-47fb-4059-ab69-effa994a5fc4",
+			"key": "comments",
+			"value": "comments"
+		},
+		{
+			"id": "4548f2d5-6f41-4d1f-8b5b-03460514c96a",
+			"key": "posts",
+			"value": "posts"
+		}
+	],
+	"protocolProfileBehavior": {}
+}
